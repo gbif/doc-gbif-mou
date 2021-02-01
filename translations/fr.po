@@ -1,0 +1,469 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gbif-mou\n"
+"POT-Creation-Date: 2021-02-01 16:52+0000\n"
+"PO-Revision-Date: 2021-02-01 16:53\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: gbif-mou\n"
+"X-Crowdin-Project-ID: 439068\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /1.0/translations/index.pot\n"
+"X-Crowdin-File-ID: 356\n"
+
+#. type: Title =
+#: index.en.adoc:1
+#, no-wrap
+msgid "GBIF Document Template"
+msgstr ""
+
+#. type: Plain text
+#: index.en.adoc:3
+msgid "Author One <communication@gbif.org>; Author Two"
+msgstr ""
+
+#. type: Plain text
+#: index.en.adoc:13
+msgid "languageLinks:combined[]"
+msgstr ""
+
+#. type: Target for macro image
+#: colophon.en.adoc:3
+#, no-wrap
+msgid "img/web/photo.jpg"
+msgstr ""
+
+#. type: Title ==
+#: colophon.en.adoc:6
+#, no-wrap
+msgid "Colophon"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:8
+#, no-wrap
+msgid "Suggested citation"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:11
+msgid "Author U, Autore D & Auteur T. The special guide to something. Third edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-xxxx-xxxx."
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:12
+#, no-wrap
+msgid "Authors"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:15
+msgid "Un Author, Due Autore & https://www.orcid.org/#[Troisième Auteur]"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:16
+#, no-wrap
+msgid "Contributors"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:19
+msgid "James Joyce and Samuel Beckett of Trinity College, Dublin, contributed to this version of the document."
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:20
+#, no-wrap
+msgid "Licence"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:23
+msgid "The document _The special guide to something_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:24
+#, no-wrap
+msgid "Persistent URI"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:27
+msgid "https://doi.org/10.35035/doc-xxxx-xxxx"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:28
+#, no-wrap
+msgid "Document control"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:31
+msgid "Third edition, April 2020"
+msgstr ""
+
+#.  include reference to provenance if possible/relevant
+#. type: Plain text
+#: colophon.en.adoc:34
+msgid "https://doi.org/10.15468/doc-yyyy-yyyy[Second edition], March 2015, by Due Autore and https://orcid.org/0000-0000-0000-0000[Troisième Auteur]."
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:36
+msgid "Originally based on an earlier publication, _Towards establishing the special guide to something_."
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:37
+#, no-wrap
+msgid "Cover image"
+msgstr ""
+
+#.  Caption. Credit, source, licence.
+#. type: Plain text
+#: colophon.en.adoc:40
+msgid "Western honey bee (_Apis mellifera_), Hardy County, Florida, United States. Photo 2018 thebugroomno2 via https://www.gbif.org/occurrence/1945467387[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
+msgstr ""
+
+#. type: Title ===
+#: preface.en.adoc:1 preface.en.adoc:14
+#, no-wrap
+msgid "Preface"
+msgstr ""
+
+#.  This section can contain not only a preface but other 'frontmatter' as well—particularly those called out in the AsciiDoctor user manual, including
+#. type: Title ===
+#: preface.en.adoc:5
+#, no-wrap
+msgid "Epigraph"
+msgstr ""
+
+#. type: Positional ($2) AttributeList argument for style 'quote'
+#: preface.en.adoc:7
+#, no-wrap
+msgid "Tacitus"
+msgstr ""
+
+#. type: quote
+#: preface.en.adoc:9
+msgid "mihi, quanto plura recentium seu veterum revolvo, tanto magis ludibria rerum mortalium cunctis in negotiis obversantur."
+msgstr ""
+
+#. type: Title ===
+#: preface.en.adoc:10
+#, no-wrap
+msgid "Abstract"
+msgstr ""
+
+#. type: quote
+#: preface.en.adoc:13
+msgid "The special guide to something blar de blar blar blar."
+msgstr ""
+
+#. type: quote
+#: preface.en.adoc:17
+msgid "It was a dark and stormy night, the rain fell in torrents — except at occasional intervals, when it was checked by a violent gust of wind which swept up the streets (for it is in London that our scene lies), rattling along the house-tops, and fiercely agitating the scanty flame of the lamps that struggled against the darkness. Through one of the obscurest quarters of London, and among haunts little loved by the gentlemen of the police, a man evidently of the lowest orders was wending his solitary way."
+msgstr ""
+
+#. type: Title ===
+#: preface.en.adoc:18
+#, no-wrap
+msgid "Acknowledgments"
+msgstr ""
+
+#. type: quote
+#: preface.en.adoc:21
+msgid "This section may also be placed at the document’s end."
+msgstr ""
+
+#. type: Title ===
+#: preface.en.adoc:22
+#, no-wrap
+msgid "Dedication"
+msgstr ""
+
+#. type: quote
+#: preface.en.adoc:24
+msgid "Once again to Zelda"
+msgstr ""
+
+#. type: Title ==
+#: 100.en.adoc:2 200.en.adoc:2
+#, no-wrap
+msgid "Section/chapter title "
+msgstr ""
+
+#. type: Plain text
+#: 100.en.adoc:4
+msgid "It was a dark and stormy night, the rain fell in torrents — except at occasional intervals, when it was checked by a violent gust of wind which swept up the streets (for it is in London that our scene lies), rattling along the house-tops, and fiercely agitating the scanty flame of the lamps that struggled against the darkness. Through one of the obscurest quarters of London, and among haunts little loved by the gentlemen of the police, a man evidently of the lowest orders was wending his solitary way. He stopped twice or thrice at different shops and houses of a description correspondent with the appearance of the _quartier_ in which they were situated, — and tended inquiry for some article or another which did not seem easily to be met with. All the answers he received were couched in the negative; and as he turned from each door he muttered to himself, in no very elegant phraseology, his disappointment and discontent. At length, at one house, the landlord, a sturdy butcher, after rendering the same reply the inquirer had hitherto received, added, — “But if _this_ vill do as vell, Dummie, it is quite at your sarvice!” Pausing reflectively for a moment, Dummie responded that he thought the thing proffered _might_ do as well; and thrusting it into his ample pocket, he strode away with as rapid a motion as the wind and the rain would allow. He soon came to a nest of low and dingy buildings, at the entrance to which, in half-effaced characters, was written “Thames Court.” Halting at the most conspicuous of these buildings, an inn or alehouse, through the half-closed windows of which blazed out in ruddy comfort the beams of the hospitable hearth, he knocked hastily at the door. He was admitted by a lady of a certain age, and endowed with a comely rotundity of face and person."
+msgstr ""
+
+#. type: Plain text
+#: 200.en.adoc:5
+msgid "“Hast got it, Dummie?” said she, quickly, as she closed the door on the guest."
+msgstr ""
+
+#. type: Plain text
+#: 200.en.adoc:7
+msgid "“Noa, noa! not exactly — but I thinks as ‘ow ⸺”"
+msgstr ""
+
+#. type: Plain text
+#: 200.en.adoc:9
+msgid "“Pish, you fool!” cried the woman, interrupting him, peevishly: “Vy, it is no use desaving of me. You knows you has only stepped from my boosing ken to another, and you has not been arter the book at all. So there’s the poor cretur a-raving and a-dying, and you ⸺”"
+msgstr ""
+
+#. type: Plain text
+#: 200.en.adoc:11
+msgid "“Let I speak!” interrupted Dummie in his turn. “I tells you I vent first to Mother Bussblone’s, who, I knows, chops the whiners morning and evening to the young ladies, and I axes there for a Bible, and she says, says she, ‘I ’as only a “Companion to the __H__alter!” but you’ll get a Bible, I think, at Master Talkins, — the cobbler — as preaches.’ So I goes to Master Talkins, and he says, says he, ‘I ’as no call for the Bible, ’cause vy, I ’as a call vithout; but mayhap you’ll be a-getting it at the butcher’s hover the vay — ’cause vy? — the butcher’ll be damned!’ So I goes hover the vay, and the butcher says, says he, ‘I ’as not a Bible, but I ’as a book of plays bound for all the vorld just like ’un, and mayhap the poor cretur mayn’t see the difference.’ So I takes the plays, Mrs. Margery, and here they be surely! — And how’s poor Judy?”"
+msgstr ""
+
+#. type: Plain text
+#: 200.en.adoc:13
+msgid "“Fearsome! she’ll not be over the night; I’m a-thinking.”"
+msgstr ""
+
+#. type: Plain text
+#: 200.en.adoc:14
+msgid "“Vell, I’ll track up the dancers!”"
+msgstr ""
+
+#. type: Plain text
+#: data/table-01.en.adoc:2
+msgid "# Table 1"
+msgstr ""
+
+#. type: Table
+#: data/table-01.en.adoc:11
+#, no-wrap
+msgid "|Col 1|Col 2      |Col 3\n"
+"|1    |Item 1     |a\n"
+"|2    |Item 2     |b\n"
+"|3    |Item 3     |c\n"
+"|6    |Three items|d\n"
+"|https://doi.org/10.1548/xyz123[Source]| | |\n"
+msgstr ""
+
+#. type: Title ==
+#: afterword.en.adoc:2
+#, no-wrap
+msgid "Acknowledgements"
+msgstr ""
+
+#. type: Plain text
+#: afterword.en.adoc:5
+msgid "This formal statement recognizes individuals and institutions that made direct contributions to your work. This is a simple statement of gratitude, not dedication or very emotional testimonial. The people and institutions you should consider listing include:"
+msgstr ""
+
+#. type: Plain text
+#: afterword.en.adoc:7
+msgid "Those who provided guidance"
+msgstr ""
+
+#. type: Plain text
+#: afterword.en.adoc:8
+msgid "Those who shared unpublished (and therefore uncitable) work"
+msgstr ""
+
+#. type: Plain text
+#: afterword.en.adoc:9
+msgid "Those who provided you with facilities or equipment"
+msgstr ""
+
+#. type: Plain text
+#: afterword.en.adoc:10
+msgid "Those who participated in discussions"
+msgstr ""
+
+#. type: Plain text
+#: afterword.en.adoc:11
+msgid "Technicians, lab assistants, students and interns"
+msgstr ""
+
+#. type: Plain text
+#: afterword.en.adoc:12
+msgid "Host or hosting institions and funding agencies (with grant number, if required)"
+msgstr ""
+
+#. type: Plain text
+#: afterword.en.adoc:14
+msgid "You may also wish to acknowledge the non-techincal contributions of:"
+msgstr ""
+
+#. type: Plain text
+#: afterword.en.adoc:16
+msgid "Graphic designers"
+msgstr ""
+
+#. type: Plain text
+#: afterword.en.adoc:17
+msgid "Photographers"
+msgstr ""
+
+#. type: Plain text
+#: afterword.en.adoc:18
+msgid "Those who provided emotional support"
+msgstr ""
+
+#. type: Plain text
+#: afterword.en.adoc:19
+msgid "Others whose support was non-technical"
+msgstr ""
+
+#. type: Plain text
+#: afterword.en.adoc:20
+msgid "When naming individuals whose contribution you intend to acknowledge, use only their names without titles. For example write only Aldo Leopold, instead Aldo Leopold, Professor of Game Management, Agricultural Economics Department, University of Wisconsin."
+msgstr ""
+
+#. type: Title ==
+#: appa.en.adoc:2
+#, no-wrap
+msgid "Example"
+msgstr ""
+
+#. type: Plain text
+#: appa.en.adoc:5
+msgid "An AsciiDoc appendix is just a document section with a 'specialsection' title."
+msgstr ""
+
+#. type: Plain text
+#: appa.en.adoc:7
+msgid "Place non-essential information that supports your analysis, validates your conclusions or pursues a related point in an appendix. Examples could include:"
+msgstr ""
+
+#. type: Plain text
+#: appa.en.adoc:9
+msgid "figures/tables/charts/graphs of results"
+msgstr ""
+
+#. type: Plain text
+#: appa.en.adoc:10
+msgid "statistics"
+msgstr ""
+
+#. type: Plain text
+#: appa.en.adoc:11
+msgid "questionnaires"
+msgstr ""
+
+#. type: Plain text
+#: appa.en.adoc:12
+msgid "transcripts of interviews"
+msgstr ""
+
+#. type: Plain text
+#: appa.en.adoc:13
+msgid "survey results"
+msgstr ""
+
+#. type: Plain text
+#: appa.en.adoc:14
+msgid "maps"
+msgstr ""
+
+#. type: Plain text
+#: appa.en.adoc:14
+msgid "software installation instructions"
+msgstr ""
+
+#. type: Title ==
+#: glossary.en.adoc:2
+#, no-wrap
+msgid "Glossary"
+msgstr ""
+
+#. Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labeled lists.
+#. type: Labeled list
+#: glossary.en.adoc:7
+#, no-wrap
+msgid "[[anchor]]term"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:8
+msgid "add short tags corresponding to an anchor name in HTML between brackets (no spaces allowed), then list the term, which should be written as you wish it to appear."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:8
+#, no-wrap
+msgid "[[authorization]]authorization"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:9
+msgid "refers to the process of determining which individuals can be afforded different access rights for authentication and data access."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:9
+#, no-wrap
+msgid "[[decimal-degrees]]decimal degrees"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:10
+msgid "degrees expressed as a single real number (e.g. −22.343456°). Note that latitudes south of the equator are negative, as are longitudes west of the prime meridian to −180 degrees."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:10
+#, no-wrap
+msgid "[[generalization]]generalization"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:11
+msgid "refers here to any modifications carried out to source data to conceal sensitive content, typically by reducing the precision of the data (such as reporting at the level of a watershed, grid or county, citing just the nearest named place, or by deleting some parts of the data). In geographic terms it refers to the conversion of a geographic representation to one with less resolution and less information content; traditionally associated with a change in scale. Also referred elsewhere to as: _fuzzying_, _dummying-up_, etc."
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:12 bibliography.en.adoc:13
+msgid "<<<"
+msgstr ""
+
+#. type: Title ==
+#: bibliography.en.adoc:2
+#, no-wrap
+msgid "References"
+msgstr ""
+
+#. The bibliography list is a style of AsciiDoc bulleted list.
+#. type: Plain text
+#: bibliography.en.adoc:7
+msgid "[[carrillo]] Carrillo Trueba C (1995) El Pedregal de San Ángel. Mexico City: Universidad Nacional Autonoma de Mexico."
+msgstr ""
+
+#. type: Plain text
+#: bibliography.en.adoc:8
+msgid "[[eggener]]\tKeith Eggener (2001) Luis Barragán’s Gardens of el Pedregal Princeton, N.J., USA: Princeton Architectural Press."
+msgstr ""
+
+#. type: Plain text
+#: bibliography.en.adoc:9
+msgid "[[heizer]]Heizer RF & Bennyhoff JA (1958) Archeological Investigation of Cuicuilco, Valley of Mexico, 1957. Science 127(3292): 232-233. https://doi.org/10.1126/science.127.3292.232"
+msgstr ""
+
+#. type: Plain text
+#: bibliography.en.adoc:10
+msgid "[[palacio]] Palacio Prieto JL & Guilbaud M-N (2015) Patrimonio natural de la Reserva Ecológica del Pedregal de San Ángel y áreas cercanas: sitios de interés geológico y geomorfológico al sur de la Cuenca de México. Boletín de la Sociedad Geológica Mexicana 67(2):227-244. http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-33222015000200008"
+msgstr ""
+
+#. type: Plain text
+#: bibliography.en.adoc:11
+msgid "[[salas05]] Salas Portugal A (2005) Armando Salas Portugal. Mexico City: Lunwerg Editores."
+msgstr ""
+
+#. type: Plain text
+#: bibliography.en.adoc:12
+msgid "[[salas06]] Salas Portugal A (2006) Morada de Lava: las colecciones fotográficas del Pedregal de San Ángel y la Ciudad Universitaria. Mexico City: Universidad Nacional Autonoma de Mexico."
+msgstr ""
+
