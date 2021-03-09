@@ -1,4 +1,5 @@
-Paragraph 3
+[[short-id]]
+== Paragraph 3
 OBJECTIVES
 
 1. Purpose
