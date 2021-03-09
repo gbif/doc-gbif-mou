@@ -1,1 +1,34 @@
+[[short-id]]
+== Paragraph 10
+ASSOCIATION AND DISASSOCIATION OF PARTICIPANTS
 
+1. Association of Participants
+Association with GBIF is open to any country, economy, inter-governmental,
+international organisation or organisation with an international scope or to an entity
+designated by them as described in Paragraph 1.2. Such association becomes effective
+upon signature of this MOU.
+
+2. Participant Status
+(a) A country that has signed the MOU becomes a Voting Participant on the Governing
+Board by deciding to make a Basic Financial Contribution and making the financial
+arrangement negotiated with the GBIF Secretariat, as described in Paragraph
+6.4(c). This arrangement sets out the Voting Participant’s financial contribution
+calculated on the basis of the approved Guidelines for calculating Basic Financial
+Contributions (See 4.6(g)) and the period for which the arrangement is valid.
+(b) In order to retain voting rights a Voting Participant is requested to make its
+financial contribution each year within the first three months of the GBIF financial
+year, unless the Executive Committee has approved a later payment arrangement
+for the financial year.
+The voting rights of a Voting Participant that is more than one financial year behind
+paying its basic financial contribution in accordance with the financial arrangement
+will be suspended until it has made all outstanding financial contributions.
+
+3. Disassociation of Participants
+(a) Any Participant may disassociate itself from this MOU by advising the Governing
+Board in writing of its intention to do so and of the effective date of
+disassociation.
+(b) In the event of disassociation of a Voting Participant, the Governing Board may
+decide by consensus to adjust the Work Programme and the Budget to take
+account of such disassociation or, again by consensus, may decide to adjust the
+contributions of Participants to the Budget in accordance with the approved
+Guidelines for calculating Basic Financial Contribution (See 4.6(g)).
