@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-mou\n"
-"POT-Creation-Date: 2021-02-01 16:52+0000\n"
-"PO-Revision-Date: 2021-02-01 16:53\n"
+"POT-Creation-Date: 2021-03-09 12:51+0000\n"
+"PO-Revision-Date: 2021-03-09 12:51\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -196,44 +196,55 @@ msgid "Once again to Zelda"
 msgstr ""
 
 #. type: Title ==
-#: 100.en.adoc:2 200.en.adoc:2
+#: 100.en.adoc:2
 #, no-wrap
-msgid "Section/chapter title "
+msgid "MEMORANDUM OF UNDERSTANDING"
 msgstr ""
 
 #. type: Plain text
-#: 100.en.adoc:4
-msgid "It was a dark and stormy night, the rain fell in torrents — except at occasional intervals, when it was checked by a violent gust of wind which swept up the streets (for it is in London that our scene lies), rattling along the house-tops, and fiercely agitating the scanty flame of the lamps that struggled against the darkness. Through one of the obscurest quarters of London, and among haunts little loved by the gentlemen of the police, a man evidently of the lowest orders was wending his solitary way. He stopped twice or thrice at different shops and houses of a description correspondent with the appearance of the _quartier_ in which they were situated, — and tended inquiry for some article or another which did not seem easily to be met with. All the answers he received were couched in the negative; and as he turned from each door he muttered to himself, in no very elegant phraseology, his disappointment and discontent. At length, at one house, the landlord, a sturdy butcher, after rendering the same reply the inquirer had hitherto received, added, — “But if _this_ vill do as vell, Dummie, it is quite at your sarvice!” Pausing reflectively for a moment, Dummie responded that he thought the thing proffered _might_ do as well; and thrusting it into his ample pocket, he strode away with as rapid a motion as the wind and the rain would allow. He soon came to a nest of low and dingy buildings, at the entrance to which, in half-effaced characters, was written “Thames Court.” Halting at the most conspicuous of these buildings, an inn or alehouse, through the half-closed windows of which blazed out in ruddy comfort the beams of the hospitable hearth, he knocked hastily at the door. He was admitted by a lady of a certain age, and endowed with a comely rotundity of face and person."
+#: 100.en.adoc:5
+msgid "FOR THE GLOBAL BIODIVERSITY INFORMATION FACILITY"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:5
-msgid "“Hast got it, Dummie?” said she, quickly, as she closed the door on the guest."
+#: 100.en.adoc:16
+msgid "The signatories to this non-binding Memorandum of Understanding (MOU), being countries, economies, inter-governmental or international organisations, other organisations with an international scope, or entities designated by them, have decided that a co-ordinated international scientific effort is needed to enable users throughout the world to openly share and put to use vast quantities of global biodiversity data, thereby advancing scientific research in many disciplines, promoting technological and sustainable development, facilitating the conservation of biodiversity and the equitable sharing of its benefits, and enhancing the quality of life of members of society. The importance of making biodiversity data openly available to all countries and individuals is underscored by various international agreements."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:7
-msgid "“Noa, noa! not exactly — but I thinks as ‘ow ⸺”"
+#: 100.en.adoc:21
+msgid "Recognising this need, the delegates to the Meeting of the OECD Committee for Scientific and Technological Policy at Ministerial Level in Paris on 22–23 June 1999 endorsed the recommendation that a Global Biodiversity Information Facility (hereinafter referred to as “GBIF”) be established, with open-ended participation."
+msgstr ""
+
+#. type: Plain text
+#: 100.en.adoc:26
+msgid "Noting that GBIF was established in March 2001, and that the first and second MOU for GBIF had each a duration of five years (2001-2006/2007-2011), the signatories to this Memorandum of Understanding hereby express their intention either to continue their existing Participation in GBIF or to become new Participants in GBIF as a mechanism of technical and scientific international co-operation."
+msgstr ""
+
+#. type: Title ==
+#: 200.en.adoc:2
+#, no-wrap
+msgid "Paragraph 1"
+msgstr ""
+
+#. type: Plain text
+#: 200.en.adoc:4
+msgid "DEFINITIONS"
 msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:9
-msgid "“Pish, you fool!” cried the woman, interrupting him, peevishly: “Vy, it is no use desaving of me. You knows you has only stepped from my boosing ken to another, and you has not been arter the book at all. So there’s the poor cretur a-raving and a-dying, and you ⸺”"
+msgid "Biodiversity Data In the context of this MOU, biodiversity data refers to scientific data, primarily about biological species and about specimens or observations of individual organisms."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:11
-msgid "“Let I speak!” interrupted Dummie in his turn. “I tells you I vent first to Mother Bussblone’s, who, I knows, chops the whiners morning and evening to the young ladies, and I axes there for a Bible, and she says, says she, ‘I ’as only a “Companion to the __H__alter!” but you’ll get a Bible, I think, at Master Talkins, — the cobbler — as preaches.’ So I goes to Master Talkins, and he says, says he, ‘I ’as no call for the Bible, ’cause vy, I ’as a call vithout; but mayhap you’ll be a-getting it at the butcher’s hover the vay — ’cause vy? — the butcher’ll be damned!’ So I goes hover the vay, and the butcher says, says he, ‘I ’as not a Bible, but I ’as a book of plays bound for all the vorld just like ’un, and mayhap the poor cretur mayn’t see the difference.’ So I takes the plays, Mrs. Margery, and here they be surely! — And how’s poor Judy?”"
+#: 200.en.adoc:16
+msgid "Participant A country, economy, inter-governmental or international organisation, other organisation with an international scope, or an entity designated by them that has signed this MOU and has expressed its intention to implement the contents thereof.  A Participant may designate an entity to take part in the operations of GBIF and to act for the Participant in such matters as the Participant chooses to delegate to it."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:13
-msgid "“Fearsome! she’ll not be over the night; I’m a-thinking.”"
-msgstr ""
-
-#. type: Plain text
-#: 200.en.adoc:14
-msgid "“Vell, I’ll track up the dancers!”"
+#: 200.en.adoc:32
+msgid "Participant Biodiversity Information Facility (BIF or Node)  A mechanism by which a Participant coordinates and supports its GBIF networked data-sharing activities.  The Participant BIF has the overall objective of promoting, coordinating and facilitating the mobilisation and use of biodiversity data among all the relevant stakeholders within the Participant’s domain, primarily to help address the Participant’s biodiversity information needs and priorities.  The Participant BIF should be the main mechanism by which the GBIF Participant coordinates with, contributes to and benefits from the central services, infrastructure, and capacity provided by GBIF as a globally decentralised initiative.  A Participant BIF includes both physical infrastructure and human resources.  Typically a Participant BIF encourages and supports the activities of the Participant’s data publishers to both contribute and use GBIF-served data, provides information technology (IT) infrastructure and expertise for GBIF-related activities, and functions as an information gateway among Participants, other stakeholders, and the GBIF Secretariat."
 msgstr ""
 
 #. type: Plain text
