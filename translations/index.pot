@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-09 12:48+0000\n"
+"POT-Creation-Date: 2021-03-09 12:49+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -233,7 +233,7 @@ msgid "FOR THE GLOBAL BIODIVERSITY INFORMATION FACILITY"
 msgstr ""
 
 #. type: Plain text
-#: 100.en.adoc:24
+#: 100.en.adoc:16
 msgid ""
 "The signatories to this non-binding Memorandum of Understanding (MOU), being "
 "countries, economies, inter-governmental or international organisations, "
@@ -246,17 +246,28 @@ msgid ""
 "sharing of its benefits, and enhancing the quality of life of members of "
 "society. The importance of making biodiversity data openly available to all "
 "countries and individuals is underscored by various international "
-"agreements.  Recognising this need, the delegates to the Meeting of the OECD "
-"Committee for Scientific and Technological Policy at Ministerial Level in "
-"Paris on 22–23 June 1999 endorsed the recommendation that a Global "
-"Biodiversity Information Facility (hereinafter referred to as “GBIF”) be "
-"established, with open-ended participation.  Noting that GBIF was "
-"established in March 2001, and that the first and second MOU for GBIF had "
-"each a duration of five years (2001-2006/2007-2011), the signatories to this "
-"Memorandum of Understanding hereby express their intention either to "
-"continue their existing Participation in GBIF or to become new Participants "
-"in GBIF as a mechanism of technical and scientific international "
-"co-operation."
+"agreements."
+msgstr ""
+
+#. type: Plain text
+#: 100.en.adoc:21
+msgid ""
+"Recognising this need, the delegates to the Meeting of the OECD Committee "
+"for Scientific and Technological Policy at Ministerial Level in Paris on "
+"22–23 June 1999 endorsed the recommendation that a Global Biodiversity "
+"Information Facility (hereinafter referred to as “GBIF”) be established, "
+"with open-ended participation."
+msgstr ""
+
+#. type: Plain text
+#: 100.en.adoc:26
+msgid ""
+"Noting that GBIF was established in March 2001, and that the first and "
+"second MOU for GBIF had each a duration of five years (2001-2006/2007-2011), "
+"the signatories to this Memorandum of Understanding hereby express their "
+"intention either to continue their existing Participation in GBIF or to "
+"become new Participants in GBIF as a mechanism of technical and scientific "
+"international co-operation."
 msgstr ""
 
 #. type: Title ==
