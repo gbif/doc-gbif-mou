@@ -1,1 +1,61 @@
-200.en.adoc
+Paragraph 3
+OBJECTIVES
+
+1. Purpose
+The purpose of GBIF is to promote, co-ordinate, design, enable and implement the
+compilation, linking, standardisation, digitisation and global dissemination and use
+of the world’s biodiversity data, within an appropriate framework for property
+rights and due attribution. GBIF works in close co-operation with established
+programmes and organisations that compile maintain and use biological information
+resources. The Participants, working through GBIF, establish and support a
+distributed information system that enables users to access and utilise considerable
+quantities of existing and new biodiversity data.
+
+2. Goals of GBIF
+It is the intention of the Participants that GBIF:
+(a) be shared and distributed, while encouraging co-operation and coherence;
+(b) be global in scale, though implemented nationally and regionally;
+(c) be accessible by individuals anywhere in the world, offering potential benefits
+to all, while being funded primarily by those that have the greatest financial
+capabilities;
+(d) promote standards and software tools designed to facilitate their adaptation
+into multiple languages, character sets and computer encodings;
+(e) serve to disseminate technological capacity by drawing on and making widely
+available scientific and technical information; and
+(f) make biodiversity data universally available, while fully acknowledging the
+contribution made by those gathering and publishing these data.
+
+3. Involvement of the Participants
+Each Participant signing this MOU should seek to:
+(a) participate actively in the formulation and implementation of the GBIF Strategic
+Plan and the Work Programme, both cooperatively in the Governing Board and
+through development of national policies as appropriate;
+(b) share biodiversity data through GBIF under a common set of technical standards
+and within an intellectual property rights framework (such as that described in
+Paragraph 8);
+(c) form a Participant Biodiversity Information Facility (with a Node or network of
+Nodes), to organise and/or provide access to biodiversity data and metadata,
+standards, software tools or other services to enhance the GBIF network. If an
+‘Other Associate Participants’ as defined in 4.2 b(v) - cannot share data and
+establish a BIF, the Participant may in its petition to become a GBIF Participant
+outline in what way it intends to be relevant and actively contribute to the
+achievements of GBIF’s overall purpose and some of the goals of GBIF (See 3.1
+and 3.2);
+(d) secure its national intellectual, technological and data mobilisation investments
+as a Participant in GBIF;
+(e) as appropriate, make other investments in biodiversity information
+infrastructure in support of the GBIF mission and national, regional and 
+6
+international needs, as well as help to co-ordinate and harmonise the
+biodiversity informatics programmes of the Participants, and
+(f) as appropriate, contribute to training and capacity development for promoting
+global access to biodiversity data, including implementing specific programs to
+enhance the biodiversity informatics capacity and technical skills base of
+developing countries.
+
+4. Co-operation and Co-ordination
+The Participants intend to encourage co-operation amongst themselves in the
+implementation of GBIF and in the development of joint work programmes in areas
+of mutual interest with the Secretariat of the Convention on Biological Diversity and
+other appropriate bodies and initiatives to avoid duplication and to benefit from
+existing resources and expertise.
