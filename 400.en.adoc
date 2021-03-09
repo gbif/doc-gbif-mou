@@ -93,3 +93,10 @@ position and monitor the Executive Secretary’s performance;
 (n) carry out other functions conferred upon it by this MOU; and
 (o) consider any matters pertaining to GBIF or its operations submitted to it by the
 Executive Secretary, the GBIF Secretariat Host, or by any Participant.
+
+7. Executive Committee
+The Governing Board may establish an Executive Committee that is responsible for
+monitoring the performance of the Secretariat in implementing the decisions of the
+Governing Board, including the Strategic Plan, governance issues, the Work
+Programmes, and budgets, and for making those intersessional decisions delegated to
+it by the Governing Board.
