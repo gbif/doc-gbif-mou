@@ -1,8 +1,11 @@
-Paragraph 11
+[[short-id]]
+== Paragraph 11
 OTHER MATTERS AND SIGNATURE PAGE
+
 1. Duration
 GBIF is intended to be an open-ended long-term cooperative endeavour in order to
 sustain the benefits of access to biodiversity data.
+
 2. Discontinuation
 The Voting Participants, acting by consensus, may discontinue this MOU at any time.
 In a situation where discontinuation has been so decided the GBIF Secretariat, acting
@@ -13,15 +16,22 @@ event of such liquidation, the GBIF Secretariat, so far as practicable, will dis
 any assets of GBIF or the proceeds there from, in proportion to the Basic Financial
 Contributions which the Participants have made from the beginning of the operation
 of GBIF.
+
 3. Modifications
 Excepting paragraph 2 (5), this MOU may be modified at any time by the Governing
 Board through a consensus vote of all the representatives of all the Voting
 Participants.
+
+
 Signing the MOU to become/continue as a Voting Participant (countries only)
 Signing the MOU to become/continue as an Associate Participant
+
+
 Official GBIF Participant name1
 : _____________________________________________
 _________________________________________________________________________
 Signature: _________________________________________________________________
 Date: _______________________ Place: _____________________________________
+
+
  1 Country or organisation name as you would like it to appear in all official GBIF correspondence; letters, website, etc
