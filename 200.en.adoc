@@ -1,14 +1,32 @@
 [[short-id]]
-== Section/chapter title 
+== Paragraph 1
+DEFINITIONS 
 
-“Hast got it, Dummie?” said she, quickly, as she closed the door on the guest.
+1. Biodiversity Data
+In the context of this MOU, biodiversity data refers to scientific data, primarily
+about biological species and about specimens or observations of individual
+organisms.
 
-“Noa, noa! not exactly — but I thinks as ‘ow ⸺”
+2. Participant
+A country, economy, inter-governmental or international organisation, other
+organisation with an international scope, or an entity designated by them that has
+signed this MOU and has expressed its intention to implement the contents thereof.
+A Participant may designate an entity to take part in the operations of GBIF and to
+act for the Participant in such matters as the Participant chooses to delegate to it.
 
-“Pish, you fool!” cried the woman, interrupting him, peevishly: “Vy, it is no use desaving of me. You knows you has only stepped from my boosing ken to another, and you has not been arter the book at all. So there’s the poor cretur a-raving and a-dying, and you ⸺”
-
-“Let I speak!” interrupted Dummie in his turn. “I tells you I vent first to Mother Bussblone’s, who, I knows, chops the whiners morning and evening to the young ladies, and I axes there for a Bible, and she says, says she, ‘I ’as only a “Companion to the __H__alter!” but you’ll get a Bible, I think, at Master Talkins, — the cobbler — as preaches.’ So I goes to Master Talkins, and he says, says he, ‘I ’as no call for the Bible, ’cause vy, I ’as a call vithout; but mayhap you’ll be a-getting it at the butcher’s hover the vay — ’cause vy? — the butcher’ll be damned!’ So I goes hover the vay, and the butcher says, says he, ‘I ’as not a Bible, but I ’as a book of plays bound for all the vorld just like ’un, and mayhap the poor cretur mayn’t see the difference.’ So I takes the plays, Mrs. Margery, and here they be surely! — And how’s poor Judy?”
-
-“Fearsome! she’ll not be over the night; I’m a-thinking.”
-
-“Vell, I’ll track up the dancers!”
+3. Participant Biodiversity Information Facility (BIF or Node)
+A mechanism by which a Participant coordinates and supports its GBIF networked
+data-sharing activities.
+The Participant BIF has the overall objective of promoting, coordinating and
+facilitating the mobilisation and use of biodiversity data among all the relevant
+stakeholders within the Participant’s domain, primarily to help address the
+Participant’s biodiversity information needs and priorities.
+The Participant BIF should be the main mechanism by which the GBIF Participant
+coordinates with, contributes to and benefits from the central services,
+infrastructure, and capacity provided by GBIF as a globally decentralised initiative.
+A Participant BIF includes both physical infrastructure and human resources.
+Typically a Participant BIF encourages and supports the activities of the
+Participant’s data publishers to both contribute and use GBIF-served data, provides
+information technology (IT) infrastructure and expertise for GBIF-related activities,
+and functions as an information gateway among Participants, other stakeholders,
+and the GBIF Secretariat. 
