@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-mou\n"
-"POT-Creation-Date: 2021-03-11 13:04+0000\n"
-"PO-Revision-Date: 2021-03-11 13:14\n"
+"POT-Creation-Date: 2021-03-11 13:59+0000\n"
+"PO-Revision-Date: 2021-03-11 14:02\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -19,117 +19,115 @@ msgstr ""
 #. type: Title =
 #: index.en.adoc:1
 #, no-wrap
-msgid "GBIF Document Template"
+msgid "Memorandum of Understanding for the Global Biodiversity Information Facility"
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:3
-msgid "Author One <communication@gbif.org>; Author Two"
-msgstr ""
-
-#. type: Plain text
-#: index.en.adoc:13
+#: index.en.adoc:12
 msgid "languageLinks:combined[]"
 msgstr ""
 
-#. type: Target for macro image
-#: colophon.en.adoc:3
-#, no-wrap
-msgid "img/web/photo.jpg"
+#.  add cover image to img directory and update filename below
+#. ifdef::backend-html5[]
+#. image::img/web/photo.jpg[]
+#. endif::backend-html5[]
+#. type: Plain text
+#: colophon.en.adoc:7
+msgid "Approved by the GBIF Governing Board at the annual Board Meeting (GB17) in Suwon, Republic of Korea, October 2010"
 msgstr ""
 
 #. type: Title ==
-#: colophon.en.adoc:6
+#: colophon.en.adoc:8
 #, no-wrap
 msgid "Colophon"
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:8
+#: colophon.en.adoc:10
 #, no-wrap
 msgid "Suggested citation"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:11
+#: colophon.en.adoc:13
 msgid "Author U, Autore D & Auteur T. The special guide to something. Third edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-xxxx-xxxx."
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:12
+#: colophon.en.adoc:14
 #, no-wrap
 msgid "Authors"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:15
+#: colophon.en.adoc:17
 msgid "Un Author, Due Autore & https://www.orcid.org/#[Troisième Auteur]"
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:16
+#: colophon.en.adoc:18
 #, no-wrap
 msgid "Contributors"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:19
+#: colophon.en.adoc:21
 msgid "James Joyce and Samuel Beckett of Trinity College, Dublin, contributed to this version of the document."
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:20
+#: colophon.en.adoc:22
 #, no-wrap
 msgid "Licence"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:23
+#: colophon.en.adoc:25
 msgid "The document _The special guide to something_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:24
+#: colophon.en.adoc:26
 #, no-wrap
 msgid "Persistent URI"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:27
+#: colophon.en.adoc:29
 msgid "https://doi.org/10.35035/doc-xxxx-xxxx"
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:28
+#: colophon.en.adoc:30
 #, no-wrap
 msgid "Document control"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:31
+#: colophon.en.adoc:33
 msgid "Third edition, April 2020"
 msgstr ""
 
 #.  include reference to provenance if possible/relevant
 #. type: Plain text
-#: colophon.en.adoc:34
+#: colophon.en.adoc:36
 msgid "https://doi.org/10.15468/doc-yyyy-yyyy[Second edition], March 2015, by Due Autore and https://orcid.org/0000-0000-0000-0000[Troisième Auteur]."
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:36
+#: colophon.en.adoc:38
 msgid "Originally based on an earlier publication, _Towards establishing the special guide to something_."
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:37
+#: colophon.en.adoc:39
 #, no-wrap
 msgid "Cover image"
 msgstr ""
 
 #.  Caption. Credit, source, licence.
 #. type: Plain text
-#: colophon.en.adoc:40
+#: colophon.en.adoc:42
 msgid "Western honey bee (_Apis mellifera_), Hardy County, Florida, United States. Photo 2018 thebugroomno2 via https://www.gbif.org/occurrence/1945467387[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
 msgstr ""
 
@@ -284,7 +282,7 @@ msgid "Basic Financial Contributions to GBIF whenever mentioned in this MOU are 
 msgstr ""
 
 #. type: Title ==
-#: 0300.en.adoc:2
+#: 0300.en.adoc:1
 #, no-wrap
 msgid "Paragraph 3"
 msgstr ""
@@ -294,24 +292,108 @@ msgstr ""
 msgid "OBJECTIVES"
 msgstr ""
 
+#. type: Title ===
+#: 0300.en.adoc:5
+#, no-wrap
+msgid "Purpose"
+msgstr ""
+
 #. type: Plain text
 #: 0300.en.adoc:14
-msgid "Purpose The purpose of GBIF is to promote, co-ordinate, design, enable and implement the compilation, linking, standardisation, digitisation and global dissemination and use of the world’s biodiversity data, within an appropriate framework for property rights and due attribution. GBIF works in close co-operation with established programmes and organisations that compile maintain and use biological information resources. The Participants, working through GBIF, establish and support a distributed information system that enables users to access and utilise considerable quantities of existing and new biodiversity data."
+msgid "The purpose of GBIF is to promote, co-ordinate, design, enable and implement the compilation, linking, standardisation, digitisation and global dissemination and use of the world’s biodiversity data, within an appropriate framework for property rights and due attribution. GBIF works in close co-operation with established programmes and organisations that compile maintain and use biological information resources. The Participants, working through GBIF, establish and support a distributed information system that enables users to access and utilise considerable quantities of existing and new biodiversity data."
+msgstr ""
+
+#. type: Title ===
+#: 0300.en.adoc:15
+#, no-wrap
+msgid "Goals of GBIF"
+msgstr ""
+
+#. type: Plain text
+#: 0300.en.adoc:17
+msgid "It is the intention of the Participants that GBIF:"
+msgstr ""
+
+#. type: Plain text
+#: 0300.en.adoc:20
+msgid "be shared and distributed, while encouraging co-operation and coherence;"
+msgstr ""
+
+#. type: Plain text
+#: 0300.en.adoc:21
+msgid "be global in scale, though implemented nationally and regionally;"
+msgstr ""
+
+#. type: Plain text
+#: 0300.en.adoc:24
+msgid "be accessible by individuals anywhere in the world, offering potential benefits to all, while being funded primarily by those that have the greatest financial capabilities;"
+msgstr ""
+
+#. type: Plain text
+#: 0300.en.adoc:26
+msgid "promote standards and software tools designed to facilitate their adaptation into multiple languages, character sets and computer encodings;"
 msgstr ""
 
 #. type: Plain text
 #: 0300.en.adoc:28
-msgid "Goals of GBIF It is the intention of the Participants that GBIF: (a) be shared and distributed, while encouraging co-operation and coherence; (b) be global in scale, though implemented nationally and regionally; (c) be accessible by individuals anywhere in the world, offering potential benefits to all, while being funded primarily by those that have the greatest financial capabilities; (d) promote standards and software tools designed to facilitate their adaptation into multiple languages, character sets and computer encodings; (e) serve to disseminate technological capacity by drawing on and making widely available scientific and technical information; and (f) make biodiversity data universally available, while fully acknowledging the contribution made by those gathering and publishing these data."
+msgid "serve to disseminate technological capacity by drawing on and making widely available scientific and technical information; and"
 msgstr ""
 
 #. type: Plain text
-#: 0300.en.adoc:56
-msgid "Involvement of the Participants Each Participant signing this MOU should seek to: (a) participate actively in the formulation and implementation of the GBIF Strategic Plan and the Work Programme, both cooperatively in the Governing Board and through development of national policies as appropriate; (b) share biodiversity data through GBIF under a common set of technical standards and within an intellectual property rights framework (such as that described in Paragraph 8); (c) form a Participant Biodiversity Information Facility (with a Node or network of Nodes), to organise and/or provide access to biodiversity data and metadata, standards, software tools or other services to enhance the GBIF network. If an ‘Other Associate Participants’ as defined in 4.2 b(v) - cannot share data and establish a BIF, the Participant may in its petition to become a GBIF Participant outline in what way it intends to be relevant and actively contribute to the achievements of GBIF’s overall purpose and some of the goals of GBIF (See 3.1 and 3.2); (d) secure its national intellectual, technological and data mobilisation investments as a Participant in GBIF; (e) as appropriate, make other investments in biodiversity information infrastructure in support of the GBIF mission and national, regional and 6 international needs, as well as help to co-ordinate and harmonise the biodiversity informatics programmes of the Participants, and (f) as appropriate, contribute to training and capacity development for promoting global access to biodiversity data, including implementing specific programs to enhance the biodiversity informatics capacity and technical skills base of developing countries."
+#: 0300.en.adoc:30
+msgid "make biodiversity data universally available, while fully acknowledging the contribution made by those gathering and publishing these data."
+msgstr ""
+
+#. type: Title ===
+#: 0300.en.adoc:31
+#, no-wrap
+msgid "Involvement of the Participants"
 msgstr ""
 
 #. type: Plain text
-#: 0300.en.adoc:62
-msgid "Co-operation and Co-ordination The Participants intend to encourage co-operation amongst themselves in the implementation of GBIF and in the development of joint work programmes in areas of mutual interest with the Secretariat of the Convention on Biological Diversity and other appropriate bodies and initiatives to avoid duplication and to benefit from existing resources and expertise."
+#: 0300.en.adoc:33
+msgid "Each Participant signing this MOU should seek to:"
+msgstr ""
+
+#. type: Plain text
+#: 0300.en.adoc:38
+msgid "participate actively in the formulation and implementation of the GBIF Strategic Plan and the Work Programme, both cooperatively in the Governing Board and through development of national policies as appropriate;"
+msgstr ""
+
+#. type: Plain text
+#: 0300.en.adoc:41
+msgid "share biodiversity data through GBIF under a common set of technical standards and within an intellectual property rights framework (such as that described in Paragraph 8);"
+msgstr ""
+
+#. type: Plain text
+#: 0300.en.adoc:49
+msgid "form a Participant Biodiversity Information Facility (with a Node or network of Nodes), to organise and/or provide access to biodiversity data and metadata, standards, software tools or other services to enhance the GBIF network. If an ‘Other Associate Participants’ as defined in 4.2 b(v) - cannot share data and establish a BIF, the Participant may in its petition to become a GBIF Participant outline in what way it intends to be relevant and actively contribute to the achievements of GBIF’s overall purpose and some of the goals of GBIF (See 3.1 and 3.2);"
+msgstr ""
+
+#. type: Plain text
+#: 0300.en.adoc:51
+msgid "secure its national intellectual, technological and data mobilisation investments as a Participant in GBIF;"
+msgstr ""
+
+#. type: Plain text
+#: 0300.en.adoc:55
+msgid "as appropriate, make other investments in biodiversity information infrastructure in support of the GBIF mission and national, regional and international needs, as well as help to co-ordinate and harmonise the biodiversity informatics programmes of the Participants, and"
+msgstr ""
+
+#. type: Plain text
+#: 0300.en.adoc:59
+msgid "as appropriate, contribute to training and capacity development for promoting global access to biodiversity data, including implementing specific programs to enhance the biodiversity informatics capacity and technical skills base of developing countries."
+msgstr ""
+
+#. type: Title ===
+#: 0300.en.adoc:60
+#, no-wrap
+msgid "Co-operation and Co-ordination"
+msgstr ""
+
+#. type: Plain text
+#: 0300.en.adoc:65
+msgid "The Participants intend to encourage co-operation amongst themselves in the implementation of GBIF and in the development of joint work programmes in areas of mutual interest with the Secretariat of the Convention on Biological Diversity and other appropriate bodies and initiatives to avoid duplication and to benefit from existing resources and expertise."
 msgstr ""
 
 #. type: Title ==
