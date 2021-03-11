@@ -1,4 +1,3 @@
-[[short-id]]
 == Paragraph 3
 OBJECTIVES
 
