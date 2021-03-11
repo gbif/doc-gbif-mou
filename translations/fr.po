@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gbif-mou\n"
 "POT-Creation-Date: 2021-03-11 13:59+0000\n"
-"PO-Revision-Date: 2021-03-11 14:02\n"
+"PO-Revision-Date: 2021-03-11 18:50\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -290,100 +290,100 @@ msgstr ""
 #. type: Plain text
 #: 0300.en.adoc:4
 msgid "OBJECTIVES"
-msgstr ""
+msgstr "OBJECTIFS"
 
 #. type: Title ===
 #: 0300.en.adoc:5
 #, no-wrap
 msgid "Purpose"
-msgstr ""
+msgstr "Objet"
 
 #. type: Plain text
 #: 0300.en.adoc:14
 msgid "The purpose of GBIF is to promote, co-ordinate, design, enable and implement the compilation, linking, standardisation, digitisation and global dissemination and use of the world’s biodiversity data, within an appropriate framework for property rights and due attribution. GBIF works in close co-operation with established programmes and organisations that compile maintain and use biological information resources. The Participants, working through GBIF, establish and support a distributed information system that enables users to access and utilise considerable quantities of existing and new biodiversity data."
-msgstr ""
+msgstr "Le SMIB a pour objet de promouvoir, de coordonner, de concevoir, de faciliter et de mettre en œuvre la collecte, la liaison, la normalisation, la numérisation ainsi que la diffusion et l’utilisation mondiales des données sur la biodiversité de la planète, dans un cadre approprié respectant les droits de propriété et les règles raisonnables de mention des sources. Le SMIB collabore de près avec les programmes et les organismes établis qui recueillent, mettent à jour et utilisent l’information sur les ressources biologiques. Par l’entremise du SMIB, les participants établissent et appuient un système d’information réparti qui permet aux utilisateurs d’obtenir et d’employer de vastes quantités de données existantes et nouvelles sur la biodiversité."
 
 #. type: Title ===
 #: 0300.en.adoc:15
 #, no-wrap
 msgid "Goals of GBIF"
-msgstr ""
+msgstr "Buts du SMIB"
 
 #. type: Plain text
 #: 0300.en.adoc:17
 msgid "It is the intention of the Participants that GBIF:"
-msgstr ""
+msgstr "Les participants ont fermement l’intention que le SMIB :"
 
 #. type: Plain text
 #: 0300.en.adoc:20
 msgid "be shared and distributed, while encouraging co-operation and coherence;"
-msgstr ""
+msgstr "soit partagé et réparti, tout en encourageant la collaboration et la cohérence;"
 
 #. type: Plain text
 #: 0300.en.adoc:21
 msgid "be global in scale, though implemented nationally and regionally;"
-msgstr ""
+msgstr "soit d’ampleur mondiale, même s’il est mis en œuvre à l’échelle nationale et régionale;"
 
 #. type: Plain text
 #: 0300.en.adoc:24
 msgid "be accessible by individuals anywhere in the world, offering potential benefits to all, while being funded primarily by those that have the greatest financial capabilities;"
-msgstr ""
+msgstr "soit accessible aux personnes du monde entier, offrant des retombées possibles à tous, tout en étant essentiellement financé par ceux qui disposent des plus gros moyens financiers;"
 
 #. type: Plain text
 #: 0300.en.adoc:26
 msgid "promote standards and software tools designed to facilitate their adaptation into multiple languages, character sets and computer encodings;"
-msgstr ""
+msgstr "fasse la promotion des normes et des outils logiciels conçus pour faciliter leur adaptation dans de multiples langages, de jeux de caractères et de codes informatiques;"
 
 #. type: Plain text
 #: 0300.en.adoc:28
 msgid "serve to disseminate technological capacity by drawing on and making widely available scientific and technical information; and"
-msgstr ""
+msgstr "serve à répandre la capacité technologique en misant sur l’information scientifique et technique disponible et en veillant à sa plus large diffusion possible;"
 
 #. type: Plain text
 #: 0300.en.adoc:30
 msgid "make biodiversity data universally available, while fully acknowledging the contribution made by those gathering and publishing these data."
-msgstr ""
+msgstr "rende les données sur la biodiversité universellement accessibles, tout en reconnaissant entièrement la contribution de ceux qui les recueillent et les publient."
 
 #. type: Title ===
 #: 0300.en.adoc:31
 #, no-wrap
 msgid "Involvement of the Participants"
-msgstr ""
+msgstr "Contribution des participants"
 
 #. type: Plain text
 #: 0300.en.adoc:33
 msgid "Each Participant signing this MOU should seek to:"
-msgstr ""
+msgstr "Chaque participant qui signe ce PA doit s’efforcer :"
 
 #. type: Plain text
 #: 0300.en.adoc:38
 msgid "participate actively in the formulation and implementation of the GBIF Strategic Plan and the Work Programme, both cooperatively in the Governing Board and through development of national policies as appropriate;"
-msgstr ""
+msgstr "de prendre une part active à la formulation et à la mise en œuvre du plan stratégique et du programme de travail du SMIB, en collaborant aux travaux de l’organe directeur et en élaborant des politiques nationales au besoin;"
 
 #. type: Plain text
 #: 0300.en.adoc:41
 msgid "share biodiversity data through GBIF under a common set of technical standards and within an intellectual property rights framework (such as that described in Paragraph 8);"
-msgstr ""
+msgstr "d’échanger des données sur la biodiversité par l’entremise du SMIB en vertu d’un ensemble commun de normes techniques et dans les limites d’un cadre sur les droits de propriété intellectuelle (comme celui qui est décrit au paragraphe 8);"
 
 #. type: Plain text
 #: 0300.en.adoc:49
 msgid "form a Participant Biodiversity Information Facility (with a Node or network of Nodes), to organise and/or provide access to biodiversity data and metadata, standards, software tools or other services to enhance the GBIF network. If an ‘Other Associate Participants’ as defined in 4.2 b(v) - cannot share data and establish a BIF, the Participant may in its petition to become a GBIF Participant outline in what way it intends to be relevant and actively contribute to the achievements of GBIF’s overall purpose and some of the goals of GBIF (See 3.1 and 3.2);"
-msgstr ""
+msgstr "de créer son propre système d’information sur la biodiversité (doté d’un noeud ou d’un réseau de noeuds), afin d’organiser et de fournir des données et des métadonnées sur la biodiversité, des normes, des outils logiciels et d’autres services pour renforcer le réseau du SMIB. Si un « autre participant associé », comme décrit au paragraphe 4.2 b(v), est incapable d’échanger des données et d’établir son SIB, il devrait, dans sa demande en vue de devenir un participant du SMIB, souligner de quelle façon il entend être pertinent pour le SMIB et contribuer activement à l’atteinte de son objectif global et à certains de ses objectifs particuliers (voir paragraphes 3.1 et 3.2);"
 
 #. type: Plain text
 #: 0300.en.adoc:51
 msgid "secure its national intellectual, technological and data mobilisation investments as a Participant in GBIF;"
-msgstr ""
+msgstr "de trouver les fonds nécessaires, en qualité de participant du SMIB, pour investir dans la propriété intellectuelle, la technologie et le regroupement des données au palier national;"
 
 #. type: Plain text
 #: 0300.en.adoc:55
 msgid "as appropriate, make other investments in biodiversity information infrastructure in support of the GBIF mission and national, regional and international needs, as well as help to co-ordinate and harmonise the biodiversity informatics programmes of the Participants, and"
-msgstr ""
+msgstr "au besoin, de faire d’autres investissements dans l’infrastructure de l’information sur la biodiversité à l’appui de la mission du SMIB et des besoins nationaux, régionaux et internationaux, et d’aider à coordonner et à harmoniser ses programmes informatiques à cet égard;"
 
 #. type: Plain text
 #: 0300.en.adoc:59
 msgid "as appropriate, contribute to training and capacity development for promoting global access to biodiversity data, including implementing specific programs to enhance the biodiversity informatics capacity and technical skills base of developing countries."
-msgstr ""
+msgstr "s’il y a lieu, de contribuer à la formation et au renforcement des capacités, afin de promouvoir l’accès mondial aux données sur la biodiversité, notamment de mettre en œuvre des programmes spécifiques visant à renforcer les capacités informatiques appliquées à la biodiversité et la base des compétences techniques des pays en développement."
 
 #. type: Title ===
 #: 0300.en.adoc:60
