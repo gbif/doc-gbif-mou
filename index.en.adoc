@@ -3,6 +3,7 @@
 :toclevels: 3
 :numbered:
 :revdate: October 2010
+:docinfo: shared-head
 //:title-logo-image: img/web/photo.jpg
 //:license: https://creativecommons.org/licenses/by-sa/4.0/
 
