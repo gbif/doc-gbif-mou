@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-mou\n"
-"POT-Creation-Date: 2021-03-09 12:51+0000\n"
-"PO-Revision-Date: 2021-03-09 12:51\n"
+"POT-Creation-Date: 2021-03-11 10:53+0000\n"
+"PO-Revision-Date: 2021-03-11 11:05\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -196,54 +196,54 @@ msgid "Once again to Zelda"
 msgstr ""
 
 #. type: Title ==
-#: 100.en.adoc:2
+#: 0100.en.adoc:2
 #, no-wrap
 msgid "MEMORANDUM OF UNDERSTANDING"
 msgstr ""
 
 #. type: Plain text
-#: 100.en.adoc:5
+#: 0100.en.adoc:5
 msgid "FOR THE GLOBAL BIODIVERSITY INFORMATION FACILITY"
 msgstr ""
 
 #. type: Plain text
-#: 100.en.adoc:16
+#: 0100.en.adoc:16
 msgid "The signatories to this non-binding Memorandum of Understanding (MOU), being countries, economies, inter-governmental or international organisations, other organisations with an international scope, or entities designated by them, have decided that a co-ordinated international scientific effort is needed to enable users throughout the world to openly share and put to use vast quantities of global biodiversity data, thereby advancing scientific research in many disciplines, promoting technological and sustainable development, facilitating the conservation of biodiversity and the equitable sharing of its benefits, and enhancing the quality of life of members of society. The importance of making biodiversity data openly available to all countries and individuals is underscored by various international agreements."
 msgstr ""
 
 #. type: Plain text
-#: 100.en.adoc:21
+#: 0100.en.adoc:21
 msgid "Recognising this need, the delegates to the Meeting of the OECD Committee for Scientific and Technological Policy at Ministerial Level in Paris on 22–23 June 1999 endorsed the recommendation that a Global Biodiversity Information Facility (hereinafter referred to as “GBIF”) be established, with open-ended participation."
 msgstr ""
 
 #. type: Plain text
-#: 100.en.adoc:26
+#: 0100.en.adoc:26
 msgid "Noting that GBIF was established in March 2001, and that the first and second MOU for GBIF had each a duration of five years (2001-2006/2007-2011), the signatories to this Memorandum of Understanding hereby express their intention either to continue their existing Participation in GBIF or to become new Participants in GBIF as a mechanism of technical and scientific international co-operation."
 msgstr ""
 
 #. type: Title ==
-#: 200.en.adoc:2
+#: 0200.en.adoc:2
 #, no-wrap
 msgid "Paragraph 1"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:4
+#: 0200.en.adoc:4
 msgid "DEFINITIONS"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:9
+#: 0200.en.adoc:9
 msgid "Biodiversity Data In the context of this MOU, biodiversity data refers to scientific data, primarily about biological species and about specimens or observations of individual organisms."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:16
+#: 0200.en.adoc:16
 msgid "Participant A country, economy, inter-governmental or international organisation, other organisation with an international scope, or an entity designated by them that has signed this MOU and has expressed its intention to implement the contents thereof.  A Participant may designate an entity to take part in the operations of GBIF and to act for the Participant in such matters as the Participant chooses to delegate to it."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:32
+#: 0200.en.adoc:32
 msgid "Participant Biodiversity Information Facility (BIF or Node)  A mechanism by which a Participant coordinates and supports its GBIF networked data-sharing activities.  The Participant BIF has the overall objective of promoting, coordinating and facilitating the mobilisation and use of biodiversity data among all the relevant stakeholders within the Participant’s domain, primarily to help address the Participant’s biodiversity information needs and priorities.  The Participant BIF should be the main mechanism by which the GBIF Participant coordinates with, contributes to and benefits from the central services, infrastructure, and capacity provided by GBIF as a globally decentralised initiative.  A Participant BIF includes both physical infrastructure and human resources.  Typically a Participant BIF encourages and supports the activities of the Participant’s data publishers to both contribute and use GBIF-served data, provides information technology (IT) infrastructure and expertise for GBIF-related activities, and functions as an information gateway among Participants, other stakeholders, and the GBIF Secretariat."
 msgstr ""
 
