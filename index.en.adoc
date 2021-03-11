@@ -18,6 +18,8 @@ include::colophon.en.adoc[]
 
 include::preface.en.adoc[]
 
+include::0000.en.adoc[]
+
 :sectnums:
 
 include::0100.en.adoc[]
