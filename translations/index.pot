@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-09 12:51+0000\n"
+"POT-Creation-Date: 2021-03-11 10:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -222,18 +222,18 @@ msgid "Once again to Zelda"
 msgstr ""
 
 #. type: Title ==
-#: 100.en.adoc:2
+#: 0100.en.adoc:2
 #, no-wrap
 msgid "MEMORANDUM OF UNDERSTANDING"
 msgstr ""
 
 #. type: Plain text
-#: 100.en.adoc:5
+#: 0100.en.adoc:5
 msgid "FOR THE GLOBAL BIODIVERSITY INFORMATION FACILITY"
 msgstr ""
 
 #. type: Plain text
-#: 100.en.adoc:16
+#: 0100.en.adoc:16
 msgid ""
 "The signatories to this non-binding Memorandum of Understanding (MOU), being "
 "countries, economies, inter-governmental or international organisations, "
@@ -250,7 +250,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 100.en.adoc:21
+#: 0100.en.adoc:21
 msgid ""
 "Recognising this need, the delegates to the Meeting of the OECD Committee "
 "for Scientific and Technological Policy at Ministerial Level in Paris on "
@@ -260,7 +260,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 100.en.adoc:26
+#: 0100.en.adoc:26
 msgid ""
 "Noting that GBIF was established in March 2001, and that the first and "
 "second MOU for GBIF had each a duration of five years (2001-2006/2007-2011), "
@@ -271,18 +271,18 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: 200.en.adoc:2
+#: 0200.en.adoc:2
 #, no-wrap
 msgid "Paragraph 1"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:4
+#: 0200.en.adoc:4
 msgid "DEFINITIONS"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:9
+#: 0200.en.adoc:9
 msgid ""
 "Biodiversity Data In the context of this MOU, biodiversity data refers to "
 "scientific data, primarily about biological species and about specimens or "
@@ -290,7 +290,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:16
+#: 0200.en.adoc:16
 msgid ""
 "Participant A country, economy, inter-governmental or international "
 "organisation, other organisation with an international scope, or an entity "
@@ -301,7 +301,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:32
+#: 0200.en.adoc:32
 msgid ""
 "Participant Biodiversity Information Facility (BIF or Node)  A mechanism by "
 "which a Participant coordinates and supports its GBIF networked data-sharing "
