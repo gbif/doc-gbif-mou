@@ -20,9 +20,9 @@ include::preface.en.adoc[]
 
 :sectnums:
 
-include::100.en.adoc[]
+include::0100.en.adoc[]
 
-include::200.en.adoc[]
+include::0200.en.adoc[]
 
 :sectnums!:
 
