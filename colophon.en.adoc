@@ -1,7 +1,9 @@
 // add cover image to img directory and update filename below
-ifdef::backend-html5[]
-image::img/web/photo.jpg[]
-endif::backend-html5[]
+//ifdef::backend-html5[]
+//image::img/web/photo.jpg[]
+//endif::backend-html5[]
+
+Approved by the GBIF Governing Board at the annual Board Meeting (GB17) in Suwon, Republic of Korea, October 2010
 
 == Colophon
 
