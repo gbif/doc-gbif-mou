@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-mou\n"
-"POT-Creation-Date: 2021-03-16 12:55+0000\n"
-"PO-Revision-Date: 2021-03-16 12:58\n"
+"POT-Creation-Date: 2021-03-16 13:23+0000\n"
+"PO-Revision-Date: 2021-03-16 14:02\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -246,38 +246,44 @@ msgstr ""
 msgid "Paragraph 2"
 msgstr ""
 
-#. type: Plain text
-#: 0200.en.adoc:4
+#. type: Title ===
+#: 0200.en.adoc:3
+#, no-wrap
 msgid "UNDERSTANDINGS"
 msgstr ""
 
 #. type: Plain text
 #: 0200.en.adoc:6
-msgid "GBIF is an open-ended international co-ordinating body set up with the overall aim of furthering technical and scientific efforts to develop and maintain a global information facility for sharing of digital biodiversity data."
+msgid "[[lowerroman]]"
 msgstr ""
 
 #. type: Plain text
 #: 0200.en.adoc:7
-msgid "The Participants’ involvement in this MOU is subject to the goodwill and effective contribution to GBIF activities and operations, either financially or through any of the activities described in Paragraph 3.3, and is subject to the laws and regulations applicable to the individual Participants."
+msgid "GBIF is an open-ended international co-ordinating body set up with the overall aim of furthering technical and scientific efforts to develop and maintain a global information facility for sharing of digital biodiversity data."
 msgstr ""
 
 #. type: Plain text
 #: 0200.en.adoc:8
-msgid "Nothing in this MOU should be read to contradict the principles of the Convention on Biological Diversity and other relevant Conventions."
+msgid "The Participants’ involvement in this MOU is subject to the goodwill and effective contribution to GBIF activities and operations, either financially or through any of the activities described in Paragraph 3.3, and is subject to the laws and regulations applicable to the individual Participants."
 msgstr ""
 
 #. type: Plain text
 #: 0200.en.adoc:9
+msgid "Nothing in this MOU should be read to contradict the principles of the Convention on Biological Diversity and other relevant Conventions."
+msgstr ""
+
+#. type: Plain text
+#: 0200.en.adoc:10
 msgid "This MOU continues the goals and intents of the previous GBIF MOUs in order to sustain the benefits of GBIF and allow its continued existence and development. The Governing Board may decide on suitable arrangements to facilitate the continued involvement and transition of the Participants from the latest MOU (2007-2011) to this one."
 msgstr ""
 
 #. type: Plain text
-#: 0200.en.adoc:10
+#: 0200.en.adoc:11
 msgid "This document is not legally binding and has no effect as a legal or political precedent."
 msgstr ""
 
 #. type: Plain text
-#: 0200.en.adoc:10
+#: 0200.en.adoc:11
 msgid "Basic Financial Contributions to GBIF whenever mentioned in this MOU are voluntary contributions decided by each Voting Participant."
 msgstr ""
 
