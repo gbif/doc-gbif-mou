@@ -25,7 +25,7 @@ The document _The special guide to something_ is licensed under https://creative
 
 === Persistent URI
 
-https://doi.org/10.35035/doc-xxxx-xxxx
+https://doi.org/10.15468/doc.ajz7-qt28
 
 === Document control
 
