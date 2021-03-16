@@ -1,12 +1,11 @@
-= GBIF Document Template
-Author One <communication@gbif.org>; Author Two
+= Memorandum of Understanding for the Global Biodiversity Information Facility
 :toc: left
 :toclevels: 3
 :numbered:
-:revnumber: {git-metadata-sha-short}
-:revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
-:title-logo-image: img/web/photo.jpg
-:license: https://creativecommons.org/licenses/by-sa/4.0/
+:revdate: October 2010
+:docinfo: shared-head
+//:title-logo-image: img/web/photo.jpg
+//:license: https://creativecommons.org/licenses/by-sa/4.0/
 
 ifdef::backend-html5[]
 languageLinks:combined[]
@@ -18,11 +17,31 @@ include::colophon.en.adoc[]
 
 include::preface.en.adoc[]
 
+include::0000.en.adoc[]
+
 :sectnums:
 
-include::100.en.adoc[]
+include::0100.en.adoc[]
 
-include::200.en.adoc[]
+include::0200.en.adoc[]
+
+include::0300.en.adoc[]
+
+include::0400.en.adoc[]
+
+include::0500.en.adoc[]
+
+include::0600.en.adoc[]
+
+include::0700.en.adoc[]
+
+include::0800.en.adoc[]
+
+include::0900.en.adoc[]
+
+include::1000.en.adoc[]
+
+include::1100.en.adoc[]
 
 :sectnums!:
 

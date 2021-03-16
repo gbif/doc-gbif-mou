@@ -1,13 +1,15 @@
 // add cover image to img directory and update filename below
-ifdef::backend-html5[]
-image::img/web/photo.jpg[]
-endif::backend-html5[]
+//ifdef::backend-html5[]
+//image::img/web/photo.jpg[]
+//endif::backend-html5[]
+
+Approved by the GBIF Governing Board at the annual Board Meeting (GB17) in Suwon, Republic of Korea, October 2010
 
 == Colophon
 
 === Suggested citation
 
-Author U, Autore D & Auteur T. The special guide to something. Third edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-xxxx-xxxx.
+Global Biodiversity Information Facility (2010) GBIF Memorandum of Understanding. https://doi.org/10.15468/doc.ajz7-qt28.
 
 === Authors
 
@@ -23,7 +25,7 @@ The document _The special guide to something_ is licensed under https://creative
 
 === Persistent URI
 
-https://doi.org/10.35035/doc-xxxx-xxxx
+https://doi.org/10.15468/doc.ajz7-qt28
 
 === Document control
 

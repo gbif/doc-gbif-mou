@@ -1,0 +1,32 @@
+[[short-id]]
+== Paragraph 1
+DEFINITIONS 
+
+1. Biodiversity Data
+In the context of this MOU, biodiversity data refers to scientific data, primarily
+about biological species and about specimens or observations of individual
+organisms.
+
+2. Participant
+A country, economy, inter-governmental or international organisation, other
+organisation with an international scope, or an entity designated by them that has
+signed this MOU and has expressed its intention to implement the contents thereof.
+A Participant may designate an entity to take part in the operations of GBIF and to
+act for the Participant in such matters as the Participant chooses to delegate to it.
+
+3. Participant Biodiversity Information Facility (BIF or Node)
+A mechanism by which a Participant coordinates and supports its GBIF networked
+data-sharing activities.
+The Participant BIF has the overall objective of promoting, coordinating and
+facilitating the mobilisation and use of biodiversity data among all the relevant
+stakeholders within the Participant’s domain, primarily to help address the
+Participant’s biodiversity information needs and priorities.
+The Participant BIF should be the main mechanism by which the GBIF Participant
+coordinates with, contributes to and benefits from the central services,
+infrastructure, and capacity provided by GBIF as a globally decentralised initiative.
+A Participant BIF includes both physical infrastructure and human resources.
+Typically a Participant BIF encourages and supports the activities of the
+Participant’s data publishers to both contribute and use GBIF-served data, provides
+information technology (IT) infrastructure and expertise for GBIF-related activities,
+and functions as an information gateway among Participants, other stakeholders,
+and the GBIF Secretariat. 

@@ -1,0 +1,60 @@
+[[short-id]]
+== Paragraph 8
+INTELLECTUAL PROPERTY
+
+1. Applicable Law
+Nothing in this MOU should be read to alter the scope and application of Intellectual
+Property Rights and benefit sharing agreements as determined under relevant laws,
+regulations and international agreements of the Participants.
+
+2. Access to Data
+To the greatest extent possible, GBIF is an open-access facility. All users whether GBIF
+Participants or others, should have equal access to data in databases affiliated with or
+developed by GBIF.
+
+3. Intellectual Property Rights to Biodiversity Data
+GBIF promotes the free dissemination of biodiversity data and, in particular:
+(a) should not assert any proprietary rights to the data in databases that are
+developed by other organisations and that subsequently become affiliated to
+GBIF;
+(b) should seek, to the greatest extent possible, to make freely and openly available,
+with the least possible restrictions on reuse, any data commissioned, created or
+developed directly by GBIF; and
+(c) should respect conditions set by data publishers that affiliate their databases to
+GBIF.
+When establishing affiliations or linkages with other databases, GBIF should seek to
+ensure that the data so made available will not be subject to limitations on the
+further non-commercial use and dissemination of those data, apart from due
+attribution of their source.
+
+4. Attribution
+GBIF seeks to ensure that the publisher/holder of data is acknowledged and requests
+that such attribution be maintained in any subsequent use of the data.
+
+5. Access to Specific Data
+Nothing in this MOU should be read to restrict the right of publisher/holder of
+databases affiliated with GBIF to restrict access to any data.
+
+6. Validity of Data
+It should be a condition of access to and use of GBIF accessible data that users
+acknowledge that the validity of the data in any databases affiliated with GBIF cannot
+be assured. GBIF disclaims responsibility for the accuracy and reliability of the data as
+well as for the suitability of its application for any particular purpose.
+
+7. Legitimacy of Data Collection
+Where the collection of new data has entailed access to biodiversity resources, GBIF
+should ask for reasonable assurances from the data publisher/holder that such access
+was consistent with applicable laws, regulations and any relevant requirements for
+prior informed consent.
+
+8. Intellectual Property Rights to Biodiversity Tools
+GBIF may claim appropriate Intellectual Property Rights available within applicable
+national jurisdictions over any tools, such as search engines or other software
+products that are developed by GBIF while carrying out the GBIF Work Programme.
+
+9. Technology Transfer
+The Participants acknowledge that, subject to any relevant Intellectual Property
+Rights, GBIF should seek to promote the non-exclusive transfer, on mutually decided
+terms, to research institutions, particularly in developing countries, of such
+informatics technology as it has available, especially in conjunction with training and
+capacity development programs.

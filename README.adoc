@@ -5,6 +5,8 @@ https://docs.gbif.org/documentation-guidelines/[image:https://docs.gbif.org/docu
 https://creativecommons.org/licenses/by-sa/4.0/[image:https://img.shields.io/badge/License-CC%20BY%2D-SA%204.0-lightgrey.svg[CC BY-SA 4.0]]
 // Build status badge: In the text below, please update "doc-gbif-mou" to "doc-your-document-name", and remove this line.
 https://builds.gbif.org/job/doc-gbif-mou/lastBuild/console[image:https://builds.gbif.org/job/doc-gbif-mou/badge/icon[Build status]]
+// CrowdIn badge:
+https://crowdin.com/project/gbif-mou[image:https://badges.crowdin.net/gbif-mou/localized.svg[Translation progress]]
 
 = GBIF Memorandum of Understanding
 
