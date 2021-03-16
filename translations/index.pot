@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-16 13:20+0000\n"
+"POT-Creation-Date: 2021-03-16 13:23+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -329,6 +329,11 @@ msgstr ""
 
 #. type: Plain text
 #: 0200.en.adoc:6
+msgid "[[lowerroman]]"
+msgstr ""
+
+#. type: Plain text
+#: 0200.en.adoc:7
 msgid ""
 "GBIF is an open-ended international co-ordinating body set up with the "
 "overall aim of furthering technical and scientific efforts to develop and "
@@ -337,7 +342,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0200.en.adoc:7
+#: 0200.en.adoc:8
 msgid ""
 "The Participants’ involvement in this MOU is subject to the goodwill and "
 "effective contribution to GBIF activities and operations, either financially "
@@ -346,14 +351,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0200.en.adoc:8
+#: 0200.en.adoc:9
 msgid ""
 "Nothing in this MOU should be read to contradict the principles of the "
 "Convention on Biological Diversity and other relevant Conventions."
 msgstr ""
 
 #. type: Plain text
-#: 0200.en.adoc:9
+#: 0200.en.adoc:10
 msgid ""
 "This MOU continues the goals and intents of the previous GBIF MOUs in order "
 "to sustain the benefits of GBIF and allow its continued existence and "
@@ -363,14 +368,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0200.en.adoc:10
+#: 0200.en.adoc:11
 msgid ""
 "This document is not legally binding and has no effect as a legal or "
 "political precedent."
 msgstr ""
 
 #. type: Plain text
-#: 0200.en.adoc:10
+#: 0200.en.adoc:11
 msgid ""
 "Basic Financial Contributions to GBIF whenever mentioned in this MOU are "
 "voluntary contributions decided by each Voting Participant."
