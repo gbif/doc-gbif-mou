@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-mou\n"
-"POT-Creation-Date: 2021-03-11 13:59+0000\n"
-"PO-Revision-Date: 2021-03-11 14:02\n"
+"POT-Creation-Date: 2021-03-16 12:55+0000\n"
+"PO-Revision-Date: 2021-03-16 12:58\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -50,7 +50,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:13
-msgid "Author U, Autore D & Auteur T. The special guide to something. Third edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-xxxx-xxxx."
+msgid "Global Biodiversity Information Facility (2010) GBIF Memorandum of Understanding. https://doi.org/10.15468/doc.ajz7-qt28."
 msgstr ""
 
 #. type: Title ===
@@ -94,7 +94,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:29
-msgid "https://doi.org/10.35035/doc-xxxx-xxxx"
+msgid "https://doi.org/10.15468/doc.ajz7-qt28"
 msgstr ""
 
 #. type: Title ===
