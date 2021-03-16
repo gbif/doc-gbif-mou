@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-mou\n"
-"POT-Creation-Date: 2021-03-16 13:23+0000\n"
-"PO-Revision-Date: 2021-03-16 14:02\n"
+"POT-Creation-Date: 2021-03-16 21:15+0000\n"
+"PO-Revision-Date: 2021-03-16 21:34\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -16,14 +16,14 @@ msgstr ""
 "X-Crowdin-File: /1.0/translations/index.pot\n"
 "X-Crowdin-File-ID: 356\n"
 
-#. type: Title =
-#: index.en.adoc:1
+#. type: Title ==
+#: index.en.adoc:1 0000.en.adoc:2
 #, no-wrap
 msgid "Memorandum of Understanding for the Global Biodiversity Information Facility"
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:12
+#: index.en.adoc:15
 msgid "languageLinks:combined[]"
 msgstr ""
 
@@ -193,12 +193,6 @@ msgstr ""
 msgid "Once again to Zelda"
 msgstr ""
 
-#. type: Title ==
-#: 0000.en.adoc:2
-#, no-wrap
-msgid "MEMORANDUM OF UNDERSTANDING FOR THE GLOBAL BIODIVERSITY INFORMATION FACILITY"
-msgstr ""
-
 #. type: Plain text
 #: 0000.en.adoc:14
 msgid "The signatories to this non-binding Memorandum of Understanding (MOU), being countries, economies, inter-governmental or international organisations, other organisations with an international scope, or entities designated by them, have decided that a co-ordinated international scientific effort is needed to enable users throughout the world to openly share and put to use vast quantities of global biodiversity data, thereby advancing scientific research in many disciplines, promoting technological and sustainable development, facilitating the conservation of biodiversity and the equitable sharing of its benefits, and enhancing the quality of life of members of society. The importance of making biodiversity data openly available to all countries and individuals is underscored by various international agreements."
@@ -215,237 +209,434 @@ msgid "Noting that GBIF was established in March 2001, and that the first and se
 msgstr ""
 
 #. type: Title ==
-#: 0100.en.adoc:2
+#: 0100.en.adoc:1
 #, no-wrap
-msgid "Paragraph 1"
+msgid "Definitions"
+msgstr ""
+
+#. type: Title ===
+#: 0100.en.adoc:3
+#, no-wrap
+msgid "Biodiversity Data"
 msgstr ""
 
 #. type: Plain text
-#: 0100.en.adoc:4
-msgid "DEFINITIONS"
+#: 0100.en.adoc:8
+msgid "In the context of this MOU, biodiversity data refers to scientific data, primarily about biological species and about specimens or observations of individual organisms."
 msgstr ""
 
-#. type: Plain text
+#. type: Title ===
 #: 0100.en.adoc:9
-msgid "Biodiversity Data In the context of this MOU, biodiversity data refers to scientific data, primarily about biological species and about specimens or observations of individual organisms."
+#, no-wrap
+msgid "Participant"
 msgstr ""
 
 #. type: Plain text
 #: 0100.en.adoc:16
-msgid "Participant A country, economy, inter-governmental or international organisation, other organisation with an international scope, or an entity designated by them that has signed this MOU and has expressed its intention to implement the contents thereof.  A Participant may designate an entity to take part in the operations of GBIF and to act for the Participant in such matters as the Participant chooses to delegate to it."
+msgid "A country, economy, inter-governmental or international organisation, other organisation with an international scope, or an entity designated by them that has signed this MOU and has expressed its intention to implement the contents thereof.  A Participant may designate an entity to take part in the operations of GBIF and to act for the Participant in such matters as the Participant chooses to delegate to it."
+msgstr ""
+
+#. type: Title ===
+#: 0100.en.adoc:17
+#, no-wrap
+msgid "Participant Biodiversity Information Facility (BIF or Node)"
+msgstr ""
+
+#. type: Plain text
+#: 0100.en.adoc:21
+msgid "A mechanism by which a Participant coordinates and supports its GBIF networked data-sharing activities."
+msgstr ""
+
+#. type: Plain text
+#: 0100.en.adoc:26
+msgid "The Participant BIF has the overall objective of promoting, coordinating and facilitating the mobilisation and use of biodiversity data among all the relevant stakeholders within the Participant’s domain, primarily to help address the Participant’s biodiversity information needs and priorities."
+msgstr ""
+
+#. type: Plain text
+#: 0100.en.adoc:30
+msgid "The Participant BIF should be the main mechanism by which the GBIF Participant coordinates with, contributes to and benefits from the central services, infrastructure, and capacity provided by GBIF as a globally decentralised initiative."
 msgstr ""
 
 #. type: Plain text
 #: 0100.en.adoc:32
-msgid "Participant Biodiversity Information Facility (BIF or Node)  A mechanism by which a Participant coordinates and supports its GBIF networked data-sharing activities.  The Participant BIF has the overall objective of promoting, coordinating and facilitating the mobilisation and use of biodiversity data among all the relevant stakeholders within the Participant’s domain, primarily to help address the Participant’s biodiversity information needs and priorities.  The Participant BIF should be the main mechanism by which the GBIF Participant coordinates with, contributes to and benefits from the central services, infrastructure, and capacity provided by GBIF as a globally decentralised initiative.  A Participant BIF includes both physical infrastructure and human resources.  Typically a Participant BIF encourages and supports the activities of the Participant’s data publishers to both contribute and use GBIF-served data, provides information technology (IT) infrastructure and expertise for GBIF-related activities, and functions as an information gateway among Participants, other stakeholders, and the GBIF Secretariat."
+msgid "A Participant BIF includes both physical infrastructure and human resources."
+msgstr ""
+
+#. type: Plain text
+#: 0100.en.adoc:37
+msgid "Typically a Participant BIF encourages and supports the activities of the Participant’s data publishers to both contribute and use GBIF-served data, provides information technology (IT) infrastructure and expertise for GBIF-related activities, and functions as an information gateway among Participants, other stakeholders, and the GBIF Secretariat."
 msgstr ""
 
 #. type: Title ==
 #: 0200.en.adoc:1
 #, no-wrap
-msgid "Paragraph 2"
-msgstr ""
-
-#. type: Title ===
-#: 0200.en.adoc:3
-#, no-wrap
-msgid "UNDERSTANDINGS"
+msgid "Understandings"
 msgstr ""
 
 #. type: Plain text
-#: 0200.en.adoc:6
-msgid "[[lowerroman]]"
-msgstr ""
-
-#. type: Plain text
-#: 0200.en.adoc:7
+#: 0200.en.adoc:4
 msgid "GBIF is an open-ended international co-ordinating body set up with the overall aim of furthering technical and scientific efforts to develop and maintain a global information facility for sharing of digital biodiversity data."
 msgstr ""
 
 #. type: Plain text
-#: 0200.en.adoc:8
+#: 0200.en.adoc:5
 msgid "The Participants’ involvement in this MOU is subject to the goodwill and effective contribution to GBIF activities and operations, either financially or through any of the activities described in Paragraph 3.3, and is subject to the laws and regulations applicable to the individual Participants."
 msgstr ""
 
 #. type: Plain text
-#: 0200.en.adoc:9
+#: 0200.en.adoc:6
 msgid "Nothing in this MOU should be read to contradict the principles of the Convention on Biological Diversity and other relevant Conventions."
 msgstr ""
 
 #. type: Plain text
-#: 0200.en.adoc:10
+#: 0200.en.adoc:7
 msgid "This MOU continues the goals and intents of the previous GBIF MOUs in order to sustain the benefits of GBIF and allow its continued existence and development. The Governing Board may decide on suitable arrangements to facilitate the continued involvement and transition of the Participants from the latest MOU (2007-2011) to this one."
 msgstr ""
 
 #. type: Plain text
-#: 0200.en.adoc:11
+#: 0200.en.adoc:8
 msgid "This document is not legally binding and has no effect as a legal or political precedent."
 msgstr ""
 
 #. type: Plain text
-#: 0200.en.adoc:11
+#: 0200.en.adoc:8
 msgid "Basic Financial Contributions to GBIF whenever mentioned in this MOU are voluntary contributions decided by each Voting Participant."
 msgstr ""
 
 #. type: Title ==
 #: 0300.en.adoc:1
 #, no-wrap
-msgid "Paragraph 3"
-msgstr ""
-
-#. type: Plain text
-#: 0300.en.adoc:4
-msgid "OBJECTIVES"
+msgid "Objectives"
 msgstr ""
 
 #. type: Title ===
-#: 0300.en.adoc:5
+#: 0300.en.adoc:3
 #, no-wrap
 msgid "Purpose"
 msgstr ""
 
 #. type: Plain text
-#: 0300.en.adoc:14
+#: 0300.en.adoc:12
 msgid "The purpose of GBIF is to promote, co-ordinate, design, enable and implement the compilation, linking, standardisation, digitisation and global dissemination and use of the world’s biodiversity data, within an appropriate framework for property rights and due attribution. GBIF works in close co-operation with established programmes and organisations that compile maintain and use biological information resources. The Participants, working through GBIF, establish and support a distributed information system that enables users to access and utilise considerable quantities of existing and new biodiversity data."
 msgstr ""
 
 #. type: Title ===
-#: 0300.en.adoc:15
+#: 0300.en.adoc:13
 #, no-wrap
 msgid "Goals of GBIF"
 msgstr ""
 
 #. type: Plain text
-#: 0300.en.adoc:17
+#: 0300.en.adoc:15
 msgid "It is the intention of the Participants that GBIF:"
 msgstr ""
 
 #. type: Plain text
-#: 0300.en.adoc:20
+#: 0300.en.adoc:18
 msgid "be shared and distributed, while encouraging co-operation and coherence;"
 msgstr ""
 
 #. type: Plain text
-#: 0300.en.adoc:21
+#: 0300.en.adoc:19
 msgid "be global in scale, though implemented nationally and regionally;"
 msgstr ""
 
 #. type: Plain text
-#: 0300.en.adoc:24
+#: 0300.en.adoc:22
 msgid "be accessible by individuals anywhere in the world, offering potential benefits to all, while being funded primarily by those that have the greatest financial capabilities;"
 msgstr ""
 
 #. type: Plain text
-#: 0300.en.adoc:26
+#: 0300.en.adoc:24
 msgid "promote standards and software tools designed to facilitate their adaptation into multiple languages, character sets and computer encodings;"
 msgstr ""
 
 #. type: Plain text
-#: 0300.en.adoc:28
+#: 0300.en.adoc:26
 msgid "serve to disseminate technological capacity by drawing on and making widely available scientific and technical information; and"
 msgstr ""
 
 #. type: Plain text
-#: 0300.en.adoc:30
+#: 0300.en.adoc:28
 msgid "make biodiversity data universally available, while fully acknowledging the contribution made by those gathering and publishing these data."
 msgstr ""
 
 #. type: Title ===
-#: 0300.en.adoc:31
+#: 0300.en.adoc:29
 #, no-wrap
 msgid "Involvement of the Participants"
 msgstr ""
 
 #. type: Plain text
-#: 0300.en.adoc:33
+#: 0300.en.adoc:31
 msgid "Each Participant signing this MOU should seek to:"
 msgstr ""
 
 #. type: Plain text
-#: 0300.en.adoc:38
+#: 0300.en.adoc:36
 msgid "participate actively in the formulation and implementation of the GBIF Strategic Plan and the Work Programme, both cooperatively in the Governing Board and through development of national policies as appropriate;"
 msgstr ""
 
 #. type: Plain text
-#: 0300.en.adoc:41
+#: 0300.en.adoc:39
 msgid "share biodiversity data through GBIF under a common set of technical standards and within an intellectual property rights framework (such as that described in Paragraph 8);"
 msgstr ""
 
 #. type: Plain text
-#: 0300.en.adoc:49
+#: 0300.en.adoc:47
 msgid "form a Participant Biodiversity Information Facility (with a Node or network of Nodes), to organise and/or provide access to biodiversity data and metadata, standards, software tools or other services to enhance the GBIF network. If an ‘Other Associate Participants’ as defined in 4.2 b(v) - cannot share data and establish a BIF, the Participant may in its petition to become a GBIF Participant outline in what way it intends to be relevant and actively contribute to the achievements of GBIF’s overall purpose and some of the goals of GBIF (See 3.1 and 3.2);"
 msgstr ""
 
 #. type: Plain text
-#: 0300.en.adoc:51
+#: 0300.en.adoc:49
 msgid "secure its national intellectual, technological and data mobilisation investments as a Participant in GBIF;"
 msgstr ""
 
 #. type: Plain text
-#: 0300.en.adoc:55
+#: 0300.en.adoc:53
 msgid "as appropriate, make other investments in biodiversity information infrastructure in support of the GBIF mission and national, regional and international needs, as well as help to co-ordinate and harmonise the biodiversity informatics programmes of the Participants, and"
 msgstr ""
 
 #. type: Plain text
-#: 0300.en.adoc:59
+#: 0300.en.adoc:57
 msgid "as appropriate, contribute to training and capacity development for promoting global access to biodiversity data, including implementing specific programs to enhance the biodiversity informatics capacity and technical skills base of developing countries."
 msgstr ""
 
 #. type: Title ===
-#: 0300.en.adoc:60
+#: 0300.en.adoc:58
 #, no-wrap
 msgid "Co-operation and Co-ordination"
 msgstr ""
 
 #. type: Plain text
-#: 0300.en.adoc:65
+#: 0300.en.adoc:63
 msgid "The Participants intend to encourage co-operation amongst themselves in the implementation of GBIF and in the development of joint work programmes in areas of mutual interest with the Secretariat of the Convention on Biological Diversity and other appropriate bodies and initiatives to avoid duplication and to benefit from existing resources and expertise."
 msgstr ""
 
 #. type: Title ==
-#: 0400.en.adoc:2
+#: 0400.en.adoc:1
 #, no-wrap
-msgid "Paragraph 4"
+msgid "The Governing Board"
 msgstr ""
 
 #. type: Plain text
-#: 0400.en.adoc:4
-msgid "THE GOVERNING BOARD"
+#: 0400.en.adoc:4 0500.en.adoc:6
+msgid "Role and Purpose"
 msgstr ""
 
 #. type: Plain text
-#: 0400.en.adoc:9
-msgid "Role and Purpose The Governing Board is the means by which the Participants make collective decisions on all matters relating to GBIF, which both the Participants and the Secretariat then carry out coordinated or facilitated by the Secretariat."
+#: 0400.en.adoc:8
+msgid "The Governing Board is the means by which the Participants make collective decisions on all matters relating to GBIF, which both the Participants and the Secretariat then carry out coordinated or facilitated by the Secretariat."
 msgstr ""
 
 #. type: Plain text
-#: 0400.en.adoc:41
-msgid "Composition The Governing Board consists of one representative from each Participant.  There are two modes of participation: (a) Voting Participants Voting Participants are those Participant countries that have decided to make a financial contribution as outlined in Paragraph 9 and the GBIF Financial Regulations and have made a financial arrangement as described in Paragraph 10.2.  (b) Associate Participants There are two categories of Associate Participants (i) Associate Participant Countries: those Participant countries that have not yet decided to make a financial contribution as outlined in Paragraph 9 and the GBIF Financial Regulations.  (ii) Associate Participant Countries are eligible and encouraged to become Voting Participants as soon as possible.  (iii) The category of an Associate Participant Country is a temporary category of up to five years duration from the date when the Associate Participant Country signs the MOU. (For extension of the period see iv). During this period the Associate Participant Country may decide to become either a Voting Participant in accordance with Paragraph 4.2 a; or an Observer in accordance with Paragraph 4.4 or may withdraw from GBIF.  (iv) Associate Participant Countries may apply to the Executive Committee for an extension of time as an Associate Participant Country if plans for moving to Voting Participant status cannot be accomplished within five years after signing the MOU.  (v) Other Associate Participants: Intergovernmental organisations, international organisations, other organisations with an international scope and economies are categorised as Other Associate Participants and are not eligible to become Voting Participants. This category is not limited in time.  Associate Participants are encouraged to take part in the deliberations of the Governing Board, but may not vote."
+#: 0400.en.adoc:10
+msgid "Composition"
 msgstr ""
 
 #. type: Plain text
-#: 0400.en.adoc:44
-msgid "Additional Participants The Secretariat of the Convention on Biological Diversity is invited to designate a nonvoting representative to the Governing Board."
+#: 0400.en.adoc:12
+msgid "The Governing Board consists of one representative from each Participant."
 msgstr ""
 
 #. type: Plain text
-#: 0400.en.adoc:50
-msgid "Observers Countries or organisations or other international bodies that have not signed the MOU, but are interested in sharing biodiversity data and follow the activities of GBIF, may be recognized by the GBIF Governing Board as observers as well as former Associate Participant Countries deciding to be observers. (See 4.2.b( iii))"
+#: 0400.en.adoc:14
+msgid "There are two modes of participation:"
 msgstr ""
 
 #. type: Plain text
-#: 0400.en.adoc:66
-msgid "Voting (a) The Governing Board works by consensus where mandated in this MOU. Such consensus means consensus of Voting Participants present.  (b) In all other decisions, the Governing Board should strive to work by consensus whenever possible. If consensus is not reached after reasonable attempts have been made, then decisions will be made by super-majority, unless the Governing Board has decided in its Rules of Procedure to decide by simple majority.  (c) A super-majority vote is the affirmative vote of a two-thirds majority of the Participants present and voting.  (d) A simple majority vote is the affirmative vote of more than one-half of the Participants present and voting.  (e) In all cases in which this MOU expressly provides that the Governing Board act by means of a consensus decision or a vote of the Participants present and voting, “present” can mean face-to-face, by telephone, Internet, video conference, or other practical means determined in advance by the Governing Board."
+#: 0400.en.adoc:18
+msgid "Voting Participants"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:23
+msgid "Voting Participants are those Participant countries that have decided to make a financial contribution as outlined in Paragraph 9 and the GBIF Financial Regulations and have made a financial arrangement as described in Paragraph 10.2."
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:24
+msgid "Associate Participants"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:26
+msgid "There are two categories of Associate Participants"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:31
+msgid "Associate Participant Countries: those Participant countries that have not yet decided to make a financial contribution as outlined in Paragraph 9 and the GBIF Financial Regulations."
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:33
+msgid "Associate Participant Countries are eligible and encouraged to become Voting Participants as soon as possible."
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:39
+msgid "The category of an Associate Participant Country is a temporary category of up to five years duration from the date when the Associate Participant Country signs the MOU. (For extension of the period see iv). During this period the Associate Participant Country may decide to become either a Voting Participant in accordance with Paragraph 4.2 a; or an Observer in accordance with Paragraph 4.4 or may withdraw from GBIF."
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:43
+msgid "Associate Participant Countries may apply to the Executive Committee for an extension of time as an Associate Participant Country if plans for moving to Voting Participant status cannot be accomplished within five years after signing the MOU."
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:47
+msgid "Other Associate Participants: Intergovernmental organisations, international organisations, other organisations with an international scope and economies are categorised as Other Associate Participants and are not eligible to become Voting Participants. This category is not limited in time."
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:51
+msgid "Associate Participants are encouraged to take part in the deliberations of the Governing Board, but may not vote."
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:54
+msgid "Additional Participants"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:56
+msgid "The Secretariat of the Convention on Biological Diversity is invited to designate a nonvoting representative to the Governing Board."
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:58
+msgid "Observers"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:63
+msgid "Countries or organisations or other international bodies that have not signed the MOU, but are interested in sharing biodiversity data and follow the activities of GBIF, may be recognized by the GBIF Governing Board as observers as well as former Associate Participant Countries deciding to be observers. (See 4.2.b(iii))"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:65
+msgid "Voting"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:70
+msgid "The Governing Board works by consensus where mandated in this MOU. Such consensus means consensus of Voting Participants present."
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:74
+msgid "In all other decisions, the Governing Board should strive to work by consensus whenever possible. If consensus is not reached after reasonable attempts have been made, then decisions will be made by super-majority, unless the Governing Board has decided in its Rules of Procedure to decide by simple majority."
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:76
+msgid "A super-majority vote is the affirmative vote of a two-thirds majority of the Participants present and voting."
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:78
+msgid "A simple majority vote is the affirmative vote of more than one-half of the Participants present and voting."
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:82
+msgid "In all cases in which this MOU expressly provides that the Governing Board act by means of a consensus decision or a vote of the Participants present and voting, “present” can mean face-to-face, by telephone, Internet, video conference, or other practical means determined in advance by the Governing Board."
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:85 0700.en.adoc:20
+msgid "Responsibilities"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:87
+msgid "The Governing Board may:"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:92
+msgid "establish its Rules of Procedure and such subsidiary bodies as it sees necessary for its proper functioning and the achievement of GBIF goals;"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:93
+msgid "formalise relationships with organisations that may assist GBIF to achieve its goals;"
 msgstr ""
 
 #. type: Plain text
 #: 0400.en.adoc:96
-msgid "Responsibilities The Governing Board may: (a) establish its Rules of Procedure and such subsidiary bodies as it sees necessary for its proper functioning and the achievement of GBIF goals; (b) formalise relationships with organisations that may assist GBIF to achieve its goals; (c) adopt a multi-year Strategic Plan for GBIF and a multi-year Budget Plan with an associated Table of suggested Basic Financial Contributions (See also 9.1 (a) and (d)); (d) adopt the Work Programme and the annual Budget; (e) monitor the Strategic Plan, the Work Programme and the Budget and make adjustments as needed; (f) decide the timing and scope of independent reviews of GBIF, implementation, governance, impact or uptake; (g) review and adjust, by consensus, the Guidelines for calculating Basic Financial Contribution; (h) adopt such rules, regulations and policies as may be required for the operations of GBIF; (i) monitor the performance of the GBIF Secretariat Host; if necessary, the Governing Board may replace the GBIF Secretariat Host; (j) select the Executive Secretary; the Governing Board may also remove the Executive Secretary; (k) approve the Staff Rules for the GBIF Secretariat based on recommendations from the Executive Secretary; (l) provide guidance and direction to the Executive Secretary on the duties of the position and monitor the Executive Secretary’s performance; (m) approve the annual financial statement and select the audit company; (n) carry out other functions conferred upon it by this MOU; and (o) consider any matters pertaining to GBIF or its operations submitted to it by the Executive Secretary, the GBIF Secretariat Host, or by any Participant."
+msgid "adopt a multi-year Strategic Plan for GBIF and a multi-year Budget Plan with an associated Table of suggested Basic Financial Contributions (See also 9.1 (a) and (d));"
 msgstr ""
 
 #. type: Plain text
-#: 0400.en.adoc:102
-msgid "Executive Committee The Governing Board may establish an Executive Committee that is responsible for monitoring the performance of the Secretariat in implementing the decisions of the Governing Board, including the Strategic Plan, governance issues, the Work Programmes, and budgets, and for making those intersessional decisions delegated to it by the Governing Board."
+#: 0400.en.adoc:97
+msgid "adopt the Work Programme and the annual Budget;"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:99
+msgid "monitor the Strategic Plan, the Work Programme and the Budget and make adjustments as needed;"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:101
+msgid "decide the timing and scope of independent reviews of GBIF, implementation, governance, impact or uptake;"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:103
+msgid "review and adjust, by consensus, the Guidelines for calculating Basic Financial Contribution;"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:105
+msgid "adopt such rules, regulations and policies as may be required for the operations of GBIF;"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:107
+msgid "monitor the performance of the GBIF Secretariat Host; if necessary, the Governing Board may replace the GBIF Secretariat Host;"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:109
+msgid "select the Executive Secretary; the Governing Board may also remove the Executive Secretary;"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:111
+msgid "approve the Staff Rules for the GBIF Secretariat based on recommendations from the Executive Secretary;"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:113
+msgid "provide guidance and direction to the Executive Secretary on the duties of the position and monitor the Executive Secretary’s performance;"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:114
+msgid "approve the annual financial statement and select the audit company;"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:115
+msgid "carry out other functions conferred upon it by this MOU; and"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:117
+msgid "consider any matters pertaining to GBIF or its operations submitted to it by the Executive Secretary, the GBIF Secretariat Host, or by any Participant."
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:120
+msgid "Executive Committee"
+msgstr ""
+
+#. type: Plain text
+#: 0400.en.adoc:125
+msgid "The Governing Board may establish an Executive Committee that is responsible for monitoring the performance of the Secretariat in implementing the decisions of the Governing Board, including the Strategic Plan, governance issues, the Work Programmes, and budgets, and for making those intersessional decisions delegated to it by the Governing Board."
 msgstr ""
 
 #. type: Title ==
@@ -457,11 +648,6 @@ msgstr ""
 #. type: Plain text
 #: 0500.en.adoc:4
 msgid "THE GBIF SECRETARIAT HOST"
-msgstr ""
-
-#. type: Plain text
-#: 0500.en.adoc:6
-msgid "Role and Purpose"
 msgstr ""
 
 #. type: Plain text
@@ -544,11 +730,6 @@ msgstr ""
 #. type: Plain text
 #: 0700.en.adoc:18
 msgid "Accountability The Executive Secretary is accountable to the Governing Board for all scientific, financial and administrative activities of the GBIF Secretariat."
-msgstr ""
-
-#. type: Plain text
-#: 0700.en.adoc:20
-msgid "Responsibilities"
 msgstr ""
 
 #. type: Plain text
@@ -670,50 +851,73 @@ msgid "Disassociation of Participants (a) Any Participant may disassociate itsel
 msgstr ""
 
 #. type: Title ==
-#: 1100.en.adoc:2
+#: 1100.en.adoc:1
 #, no-wrap
-msgid "Paragraph 11"
+msgid "Other Matters and Signature Page"
+msgstr ""
+
+#. type: Title ===
+#: 1100.en.adoc:3
+#, no-wrap
+msgid "Duration"
 msgstr ""
 
 #. type: Plain text
-#: 1100.en.adoc:4
-msgid "OTHER MATTERS AND SIGNATURE PAGE"
+#: 1100.en.adoc:6
+msgid "GBIF is intended to be an open-ended long-term cooperative endeavour in order to sustain the benefits of access to biodiversity data."
+msgstr ""
+
+#. type: Title ===
+#: 1100.en.adoc:7
+#, no-wrap
+msgid "Discontinuation"
 msgstr ""
 
 #. type: Plain text
-#: 1100.en.adoc:8
-msgid "Duration GBIF is intended to be an open-ended long-term cooperative endeavour in order to sustain the benefits of access to biodiversity data."
+#: 1100.en.adoc:17
+msgid "The Voting Participants, acting by consensus, may discontinue this MOU at any time.  In a situation where discontinuation has been so decided the GBIF Secretariat, acting in accordance with the laws of the jurisdiction in which it is located will arrange for the liquidation of the assets of GBIF; property held by the GBIF Secretariat for the benefit of the Participants is to be regarded, for this purpose, as assets of GBIF. In the event of such liquidation, the GBIF Secretariat, so far as practicable, will distribute any assets of GBIF or the proceeds there from, in proportion to the Basic Financial Contributions which the Participants have made from the beginning of the operation of GBIF."
+msgstr ""
+
+#. type: Title ===
+#: 1100.en.adoc:18
+#, no-wrap
+msgid "Modifications"
 msgstr ""
 
 #. type: Plain text
-#: 1100.en.adoc:19
-msgid "Discontinuation The Voting Participants, acting by consensus, may discontinue this MOU at any time.  In a situation where discontinuation has been so decided the GBIF Secretariat, acting in accordance with the laws of the jurisdiction in which it is located will arrange for the liquidation of the assets of GBIF; property held by the GBIF Secretariat for the benefit of the Participants is to be regarded, for this purpose, as assets of GBIF. In the event of such liquidation, the GBIF Secretariat, so far as practicable, will distribute any assets of GBIF or the proceeds there from, in proportion to the Basic Financial Contributions which the Participants have made from the beginning of the operation of GBIF."
+#: 1100.en.adoc:22
+msgid "Excepting paragraph 2 (5), this MOU may be modified at any time by the Governing Board through a consensus vote of all the representatives of all the Voting Participants."
 msgstr ""
 
 #. type: Plain text
-#: 1100.en.adoc:24
-msgid "Modifications Excepting paragraph 2 (5), this MOU may be modified at any time by the Governing Board through a consensus vote of all the representatives of all the Voting Participants."
+#: 1100.en.adoc:24 1100.en.adoc:26 1100.en.adoc:32 1100.en.adoc:36
+#: 1100.en.adoc:38 1100.en.adoc:42
+msgid " "
 msgstr ""
 
 #. type: Plain text
 #: 1100.en.adoc:28
-msgid "Signing the MOU to become/continue as a Voting Participant (countries only)  Signing the MOU to become/continue as an Associate Participant"
+msgid "[big]#□# Signing the MOU to become/continue as a Voting Participant (countries only)"
 msgstr ""
 
 #. type: Plain text
-#: 1100.en.adoc:32
-msgid "Official GBIF Participant name1 : _____________________________________________"
+#: 1100.en.adoc:30
+msgid "[big]#□# Signing the MOU to become/continue as an Associate Participant"
 msgstr ""
 
-#. type: delimited block _
-#: 1100.en.adoc:35
-msgid "Signature: _________________________________________________________________ Date: _______________________ Place: _____________________________________"
+#. type: Plain text
+#: 1100.en.adoc:34
+msgid "Official GBIF Participant namefootnote:[Country or organisation name as you would like it to appear in all official GBIF correspondence; letters, website, etc]: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
 msgstr ""
 
-#. type: delimited block _
-#: 1100.en.adoc:37
-#, no-wrap
-msgid " 1 Country or organisation name as you would like it to appear in all official GBIF correspondence; letters, website, etc\n"
+#. type: Plain text
+#: 1100.en.adoc:40
+msgid "Signature: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
+msgstr ""
+
+#. type: Plain text
+#: 1100.en.adoc:43
+msgid "Date: _ _ _ _ _ _ _ _ _ _ _ _ _ _     Place: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
 msgstr ""
 
 #. type: Plain text
