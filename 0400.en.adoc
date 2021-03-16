@@ -1,100 +1,123 @@
-[[short-id]]
-== Paragraph 4
-THE GOVERNING BOARD
+== The Governing Board
 
-1. Role and Purpose
+. Role and Purpose
++
 The Governing Board is the means by which the Participants make collective decisions
 on all matters relating to GBIF, which both the Participants and the Secretariat then
 carry out coordinated or facilitated by the Secretariat.
 
-2. Composition
+. Composition
++
 The Governing Board consists of one representative from each Participant.
++
 There are two modes of participation:
-(a) Voting Participants
++
+--
+[loweralpha]
+. Voting Participants
++
 Voting Participants are those Participant countries that have decided to make
 a financial contribution as outlined in Paragraph 9 and the GBIF Financial
 Regulations and have made a financial arrangement as described in Paragraph
 10.2.
-(b) Associate Participants
+. Associate Participants
++
 There are two categories of Associate Participants
-(i) Associate Participant Countries: those Participant countries that have not
++
+[lowerroman]
+.. Associate Participant Countries: those Participant countries that have not
 yet decided to make a financial contribution as outlined in Paragraph 9 and
 the GBIF Financial Regulations.
-(ii) Associate Participant Countries are eligible and encouraged to become
+.. Associate Participant Countries are eligible and encouraged to become
 Voting Participants as soon as possible.
-(iii) The category of an Associate Participant Country is a temporary category of
+.. The category of an Associate Participant Country is a temporary category of
 up to five years duration from the date when the Associate Participant
 Country signs the MOU. (For extension of the period see iv). During this
 period the Associate Participant Country may decide to become either a
 Voting Participant in accordance with Paragraph 4.2 a; or an Observer in
 accordance with Paragraph 4.4 or may withdraw from GBIF.
-(iv) Associate Participant Countries may apply to the Executive Committee for
+.. Associate Participant Countries may apply to the Executive Committee for
 an extension of time as an Associate Participant Country if plans for moving
 to Voting Participant status cannot be accomplished within five years after
 signing the MOU.
-(v) Other Associate Participants: Intergovernmental organisations, international
+.. Other Associate Participants: Intergovernmental organisations, international
 organisations, other organisations with an international scope and
 economies are categorised as Other Associate Participants and are not
 eligible to become Voting Participants. This category is not limited in time.
+
++
 Associate Participants are encouraged to take part in the deliberations of the
 Governing Board, but may not vote.
+--
 
-3. Additional Participants
+. Additional Participants
++
 The Secretariat of the Convention on Biological Diversity is invited to designate a nonvoting representative to the Governing Board.
 
-4. Observers
+. Observers
++
 Countries or organisations or other international bodies that have not signed the MOU,
 but are interested in sharing biodiversity data and follow the activities of GBIF, may
 be recognized by the GBIF Governing Board as observers as well as former Associate
-Participant Countries deciding to be observers. (See 4.2.b( iii))
+Participant Countries deciding to be observers. (See 4.2.b(iii))
 
-5. Voting
-(a) The Governing Board works by consensus where mandated in this MOU. Such
+. Voting
++
+--
+[loweralpha]
+. The Governing Board works by consensus where mandated in this MOU. Such
 consensus means consensus of Voting Participants present.
-(b) In all other decisions, the Governing Board should strive to work by consensus
+. In all other decisions, the Governing Board should strive to work by consensus
 whenever possible. If consensus is not reached after reasonable attempts have
 been made, then decisions will be made by super-majority, unless the Governing
 Board has decided in its Rules of Procedure to decide by simple majority.
-(c) A super-majority vote is the affirmative vote of a two-thirds majority of the
+. A super-majority vote is the affirmative vote of a two-thirds majority of the
 Participants present and voting.
-(d) A simple majority vote is the affirmative vote of more than one-half of the
+. A simple majority vote is the affirmative vote of more than one-half of the
 Participants present and voting.
-(e) In all cases in which this MOU expressly provides that the Governing Board act by
+. In all cases in which this MOU expressly provides that the Governing Board act by
 means of a consensus decision or a vote of the Participants present and voting,
 “present” can mean face-to-face, by telephone, Internet, video conference, or
 other practical means determined in advance by the Governing Board.
+--
 
-6. Responsibilities
+. Responsibilities
++
 The Governing Board may:
-(a) establish its Rules of Procedure and such subsidiary bodies as it sees necessary for
++
+--
+[loweralpha]
+. establish its Rules of Procedure and such subsidiary bodies as it sees necessary for
 its proper functioning and the achievement of GBIF goals;
-(b) formalise relationships with organisations that may assist GBIF to achieve its goals;
-(c) adopt a multi-year Strategic Plan for GBIF and a multi-year Budget Plan with an
+. formalise relationships with organisations that may assist GBIF to achieve its goals;
+. adopt a multi-year Strategic Plan for GBIF and a multi-year Budget Plan with an
 associated Table of suggested Basic Financial Contributions (See also 9.1 (a) and
 (d));
-(d) adopt the Work Programme and the annual Budget;
-(e) monitor the Strategic Plan, the Work Programme and the Budget and make
+. adopt the Work Programme and the annual Budget;
+. monitor the Strategic Plan, the Work Programme and the Budget and make
 adjustments as needed;
-(f) decide the timing and scope of independent reviews of GBIF, implementation,
+. decide the timing and scope of independent reviews of GBIF, implementation,
 governance, impact or uptake;
-(g) review and adjust, by consensus, the Guidelines for calculating Basic Financial
+. review and adjust, by consensus, the Guidelines for calculating Basic Financial
 Contribution;
-(h) adopt such rules, regulations and policies as may be required for the operations of
+. adopt such rules, regulations and policies as may be required for the operations of
 GBIF;
-(i) monitor the performance of the GBIF Secretariat Host; if necessary, the Governing
+. monitor the performance of the GBIF Secretariat Host; if necessary, the Governing
 Board may replace the GBIF Secretariat Host;
-(j) select the Executive Secretary; the Governing Board may also remove the
+. select the Executive Secretary; the Governing Board may also remove the
 Executive Secretary;
-(k) approve the Staff Rules for the GBIF Secretariat based on recommendations from
+. approve the Staff Rules for the GBIF Secretariat based on recommendations from
 the Executive Secretary;
-(l) provide guidance and direction to the Executive Secretary on the duties of the
+. provide guidance and direction to the Executive Secretary on the duties of the
 position and monitor the Executive Secretary’s performance;
-(m) approve the annual financial statement and select the audit company;
-(n) carry out other functions conferred upon it by this MOU; and
-(o) consider any matters pertaining to GBIF or its operations submitted to it by the
+. approve the annual financial statement and select the audit company;
+. carry out other functions conferred upon it by this MOU; and
+. consider any matters pertaining to GBIF or its operations submitted to it by the
 Executive Secretary, the GBIF Secretariat Host, or by any Participant.
+--
 
-7. Executive Committee
+. Executive Committee
++
 The Governing Board may establish an Executive Committee that is responsible for
 monitoring the performance of the Secretariat in implementing the decisions of the
 Governing Board, including the Strategic Plan, governance issues, the Work

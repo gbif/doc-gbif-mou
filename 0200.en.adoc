@@ -1,8 +1,5 @@
-== Paragraph 2
+== Understandings
 
-=== UNDERSTANDINGS
-
-[[lowerroman]] 
 . GBIF is an open-ended international co-ordinating body set up with the overall aim of furthering technical and scientific efforts to develop and maintain a global information facility for sharing of digital biodiversity data.
 . The Participants’ involvement in this MOU is subject to the goodwill and effective contribution to GBIF activities and operations, either financially or through any of the activities described in Paragraph 3.3, and is subject to the laws and regulations applicable to the individual Participants.
 . Nothing in this MOU should be read to contradict the principles of the Convention on Biological Diversity and other relevant Conventions.

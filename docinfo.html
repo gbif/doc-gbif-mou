@@ -1,8 +1,15 @@
 <style>
-.loweralpha li::marker {
+.loweralpha > li::marker {
   content: "(" counter(list-item, lower-alpha) ")";
 }
-.loweralpha li {
+.loweralpha > li {
+  padding-left: 0.75em;
+}
+
+.lowerroman > li::marker {
+  content: "(" counter(list-item, lower-roman) ")";
+}
+.lowerroman > li {
   padding-left: 0.75em;
 }
 </style>

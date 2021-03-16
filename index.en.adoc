@@ -1,4 +1,7 @@
 = Memorandum of Understanding for the Global Biodiversity Information Facility
+// doctype book is used to allow the "Paragraph" prefix to chapter titles
+:doctype: book
+:chapter-signifier: Paragraph
 :toc: left
 :toclevels: 3
 :numbered:

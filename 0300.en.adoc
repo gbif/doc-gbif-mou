@@ -1,6 +1,4 @@
-== Paragraph 3
-
-OBJECTIVES
+== Objectives
 
 === Purpose
 The purpose of GBIF is to promote, co-ordinate, design, enable and implement the

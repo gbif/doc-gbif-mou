@@ -1,12 +1,10 @@
-[[short-id]]
-== Paragraph 11
-OTHER MATTERS AND SIGNATURE PAGE
+== Other Matters and Signature Page
 
-1. Duration
+=== Duration
 GBIF is intended to be an open-ended long-term cooperative endeavour in order to
 sustain the benefits of access to biodiversity data.
 
-2. Discontinuation
+=== Discontinuation
 The Voting Participants, acting by consensus, may discontinue this MOU at any time.
 In a situation where discontinuation has been so decided the GBIF Secretariat, acting
 in accordance with the laws of the jurisdiction in which it is located will arrange for
@@ -17,21 +15,29 @@ any assets of GBIF or the proceeds there from, in proportion to the Basic Financ
 Contributions which the Participants have made from the beginning of the operation
 of GBIF.
 
-3. Modifications
+=== Modifications
 Excepting paragraph 2 (5), this MOU may be modified at any time by the Governing
 Board through a consensus vote of all the representatives of all the Voting
 Participants.
 
+ 
 
-Signing the MOU to become/continue as a Voting Participant (countries only)
-Signing the MOU to become/continue as an Associate Participant
+ 
 
+[big]#□# Signing the MOU to become/continue as a Voting Participant (countries only)
 
-Official GBIF Participant name1
-: _____________________________________________
-_________________________________________________________________________
-Signature: _________________________________________________________________
-Date: _______________________ Place: _____________________________________
+[big]#□# Signing the MOU to become/continue as an Associate Participant
 
+ 
 
- 1 Country or organisation name as you would like it to appear in all official GBIF correspondence; letters, website, etc
+Official GBIF Participant namefootnote:[Country or organisation name as you would like it to appear in all official GBIF correspondence; letters, website, etc]: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+ 
+
+ 
+
+Signature: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+ 
+
+Date: _ _ _ _ _ _ _ _ _ _ _ _ _ _     Place: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
