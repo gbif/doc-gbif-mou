@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-mou\n"
-"POT-Creation-Date: 2021-03-16 12:55+0000\n"
-"PO-Revision-Date: 2021-03-16 12:58\n"
+"POT-Creation-Date: 2021-03-16 13:23+0000\n"
+"PO-Revision-Date: 2021-03-16 14:02\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -20,7 +20,8 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Memorandum of Understanding for the Global Biodiversity Information Facility"
-msgstr ""
+msgstr "PROTOCOLE D’ACCORD CONCERNANT LE SYSTÈME MONDIAL\n"
+"D’INFORMATION SUR LA BIODIVERSITÉ"
 
 #. type: Plain text
 #: index.en.adoc:12
@@ -34,7 +35,7 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:7
 msgid "Approved by the GBIF Governing Board at the annual Board Meeting (GB17) in Suwon, Republic of Korea, October 2010"
-msgstr ""
+msgstr "Approuvé par l’organe directeur du SMIB, à son assemblée annuelle (GB17) d’octobre 2010, à Suwon, en République de Corée"
 
 #. type: Title ==
 #: colophon.en.adoc:8
@@ -197,22 +198,22 @@ msgstr ""
 #: 0000.en.adoc:2
 #, no-wrap
 msgid "MEMORANDUM OF UNDERSTANDING FOR THE GLOBAL BIODIVERSITY INFORMATION FACILITY"
-msgstr ""
+msgstr "PROTOCOLE D’ACCORD CONCERNANT LE SYSTÈME MONDIAL D’INFORMATION SUR LA BIODIVERSITÉ"
 
 #. type: Plain text
 #: 0000.en.adoc:14
 msgid "The signatories to this non-binding Memorandum of Understanding (MOU), being countries, economies, inter-governmental or international organisations, other organisations with an international scope, or entities designated by them, have decided that a co-ordinated international scientific effort is needed to enable users throughout the world to openly share and put to use vast quantities of global biodiversity data, thereby advancing scientific research in many disciplines, promoting technological and sustainable development, facilitating the conservation of biodiversity and the equitable sharing of its benefits, and enhancing the quality of life of members of society. The importance of making biodiversity data openly available to all countries and individuals is underscored by various international agreements."
-msgstr ""
+msgstr "Les signataires de ce protocole d’accord (PA) non exécutoire, étant des pays, des économies, des organisations intergouvernementales ou internationales, d’autres organismes à portée mondiale ou encore des entités désignées par eux, ont décidé qu’il fallait coordonner les efforts scientifiques internationaux pour permettre aux usagers du monde entier d’échanger ouvertement et de mettre à contribution de vastes quantités de données sur la biodiversité mondiale, ce qui fera progresser les recherches scientifiques dans de nombreuses disciplines, favorisera le développement technologique et durable, facilitera la préservation de la biodiversité et le partage équitable de ses retombées, et améliorera la qualité de vie des membres de la société. L’importance qu’il y a à rendre ouvertement accessibles les données sur la biodiversité à l’ensemble des pays et des particuliers est soulignée par diverses conventions internationales."
 
 #. type: Plain text
 #: 0000.en.adoc:19
 msgid "Recognising this need, the delegates to the Meeting of the OECD Committee for Scientific and Technological Policy at Ministerial Level in Paris on 22–23 June 1999 endorsed the recommendation that a Global Biodiversity Information Facility (hereinafter referred to as “GBIF”) be established, with open-ended participation."
-msgstr ""
+msgstr "Compte tenu de ce besoin, les délégués à la Réunion des ministres du Comité de la politique scientifique et technologique de l’OCDE qui a eu lieu à Paris les 22 et 23 juin 1999 ont souscrit à la recommandation visant l’établissement d’un système mondial d’information sur la biodiversité (ci-après appelé le SMIB), ouvert à tous."
 
 #. type: Plain text
 #: 0000.en.adoc:24
 msgid "Noting that GBIF was established in March 2001, and that the first and second MOU for GBIF had each a duration of five years (2001-2006/2007-2011), the signatories to this Memorandum of Understanding hereby express their intention either to continue their existing Participation in GBIF or to become new Participants in GBIF as a mechanism of technical and scientific international co-operation."
-msgstr ""
+msgstr "Constatant que le SMIB a été créé en mars 2001 et que le premier et le deuxième PA à son sujet avaient une durée de cinq ans chacun (2001-2006/2007-2011), les signataires du présent protocole expriment par la présente leur intention de poursuivre leur participation au SMIB ou de devenir de nouveaux participants du SMIB en tant que mécanisme de coopération technique et scientifique internationale."
 
 #. type: Title ==
 #: 0100.en.adoc:2
@@ -246,38 +247,44 @@ msgstr ""
 msgid "Paragraph 2"
 msgstr ""
 
-#. type: Plain text
-#: 0200.en.adoc:4
+#. type: Title ===
+#: 0200.en.adoc:3
+#, no-wrap
 msgid "UNDERSTANDINGS"
 msgstr ""
 
 #. type: Plain text
 #: 0200.en.adoc:6
-msgid "GBIF is an open-ended international co-ordinating body set up with the overall aim of furthering technical and scientific efforts to develop and maintain a global information facility for sharing of digital biodiversity data."
+msgid "[[lowerroman]]"
 msgstr ""
 
 #. type: Plain text
 #: 0200.en.adoc:7
-msgid "The Participants’ involvement in this MOU is subject to the goodwill and effective contribution to GBIF activities and operations, either financially or through any of the activities described in Paragraph 3.3, and is subject to the laws and regulations applicable to the individual Participants."
+msgid "GBIF is an open-ended international co-ordinating body set up with the overall aim of furthering technical and scientific efforts to develop and maintain a global information facility for sharing of digital biodiversity data."
 msgstr ""
 
 #. type: Plain text
 #: 0200.en.adoc:8
-msgid "Nothing in this MOU should be read to contradict the principles of the Convention on Biological Diversity and other relevant Conventions."
+msgid "The Participants’ involvement in this MOU is subject to the goodwill and effective contribution to GBIF activities and operations, either financially or through any of the activities described in Paragraph 3.3, and is subject to the laws and regulations applicable to the individual Participants."
 msgstr ""
 
 #. type: Plain text
 #: 0200.en.adoc:9
+msgid "Nothing in this MOU should be read to contradict the principles of the Convention on Biological Diversity and other relevant Conventions."
+msgstr ""
+
+#. type: Plain text
+#: 0200.en.adoc:10
 msgid "This MOU continues the goals and intents of the previous GBIF MOUs in order to sustain the benefits of GBIF and allow its continued existence and development. The Governing Board may decide on suitable arrangements to facilitate the continued involvement and transition of the Participants from the latest MOU (2007-2011) to this one."
 msgstr ""
 
 #. type: Plain text
-#: 0200.en.adoc:10
+#: 0200.en.adoc:11
 msgid "This document is not legally binding and has no effect as a legal or political precedent."
 msgstr ""
 
 #. type: Plain text
-#: 0200.en.adoc:10
+#: 0200.en.adoc:11
 msgid "Basic Financial Contributions to GBIF whenever mentioned in this MOU are voluntary contributions decided by each Voting Participant."
 msgstr ""
 
