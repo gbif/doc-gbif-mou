@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-16 12:55+0000\n"
+"POT-Creation-Date: 2021-03-16 13:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -321,8 +321,9 @@ msgstr ""
 msgid "Paragraph 2"
 msgstr ""
 
-#. type: Plain text
-#: 0200.en.adoc:4
+#. type: Title ===
+#: 0200.en.adoc:3
+#, no-wrap
 msgid "UNDERSTANDINGS"
 msgstr ""
 
