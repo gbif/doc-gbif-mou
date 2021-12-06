@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-12-06 18:55+0000\n"
+"POT-Creation-Date: 2021-12-06 20:56+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -737,7 +737,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0400.en.adoc:85 0700.en.adoc:15
+#: 0400.en.adoc:85 0700.en.adoc:18
 msgid "Responsibilities"
 msgstr ""
 
@@ -885,19 +885,19 @@ msgid "Reimbursement of Costs"
 msgstr ""
 
 #. type: Plain text
-#: 0500.en.adoc:21
+#: 0500.en.adoc:23
 msgid ""
-"(a) In accordance with prior financial arrangements with the GBIF "
-"Secretariat, expenses and costs reasonably and properly incurred by the GBIF "
-"Secretariat Host in supporting the GBIF Secretariat, above those costs that "
-"the GBIF Secretariat Host itself has consented to provide may be paid from "
-"the funds collected pursuant to Paragraph 9."
+"In accordance with prior financial arrangements with the GBIF Secretariat, "
+"expenses and costs reasonably and properly incurred by the GBIF Secretariat "
+"Host in supporting the GBIF Secretariat, above those costs that the GBIF "
+"Secretariat Host itself has consented to provide may be paid from the funds "
+"collected pursuant to Paragraph 9."
 msgstr ""
 
 #. type: Plain text
-#: 0500.en.adoc:24
+#: 0500.en.adoc:27
 msgid ""
-"(b) Neither the GBIF Secretariat Host, nor its experts, employees, agents, "
+"Neither the GBIF Secretariat Host, nor its experts, employees, agents, "
 "representatives or contractors are to commit the Participants to any "
 "expenditure beyond what is available in the Central Fund, as defined in "
 "Paragraph 9.1(b)."
@@ -935,7 +935,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0600.en.adoc:13 0700.en.adoc:11
+#: 0600.en.adoc:13 0700.en.adoc:14
 msgid "Accountability"
 msgstr ""
 
@@ -955,22 +955,22 @@ msgid "Tasks"
 msgstr ""
 
 #. type: Plain text
-#: 0600.en.adoc:19
+#: 0600.en.adoc:20
 msgid "The GBIF Secretariat:"
 msgstr ""
 
 #. type: Plain text
-#: 0600.en.adoc:21
+#: 0600.en.adoc:23
 msgid "employs the Executive Secretary and other GBIF Secretariat staff"
 msgstr ""
 
 #. type: Plain text
-#: 0600.en.adoc:22
+#: 0600.en.adoc:24
 msgid "holds the Central Fund described in Paragraph 9.1"
 msgstr ""
 
 #. type: Plain text
-#: 0600.en.adoc:23
+#: 0600.en.adoc:25
 msgid ""
 "is responsible for developing financial arrangements with Voting "
 "Participants specifying how those Participants make their financial "
@@ -978,19 +978,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0600.en.adoc:24
+#: 0600.en.adoc:26
 msgid ""
 "hold in trust, and for the benefit of the Participants, all assets which may "
 "accrue to or be acquired for GBIF"
 msgstr ""
 
 #. type: Plain text
-#: 0600.en.adoc:26
+#: 0600.en.adoc:29
 msgid "Cooperation"
 msgstr ""
 
 #. type: Plain text
-#: 0600.en.adoc:27
+#: 0600.en.adoc:30
 msgid ""
 "The GBIF Secretariat may, as appropriate, conclude memorandums of "
 "cooperation with national or regional biodiversity facilities or "
@@ -1010,14 +1010,14 @@ msgid "Role and Authority"
 msgstr ""
 
 #. type: Plain text
-#: 0700.en.adoc:7
+#: 0700.en.adoc:9
 msgid ""
 "The Executive Secretary acts as the chief executive officer of GBIF and the "
 "Executive Director of the GBIF Secretariat."
 msgstr ""
 
 #. type: Plain text
-#: 0700.en.adoc:8
+#: 0700.en.adoc:10
 msgid ""
 "The Executive Secretary has the authority, within limits and guidelines "
 "decided by the Governing Board, and, subject to the provisions of this "
@@ -1026,43 +1026,43 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0700.en.adoc:9
+#: 0700.en.adoc:11
 msgid ""
 "The activities of the Executive Secretary are subject to the laws and "
 "regulations in force in the country of the GBIF Secretariat Host."
 msgstr ""
 
 #. type: Plain text
-#: 0700.en.adoc:13
+#: 0700.en.adoc:16
 msgid ""
 "The Executive Secretary is accountable to the Governing Board for all "
 "scientific, financial and administrative activities of the GBIF Secretariat."
 msgstr ""
 
 #. type: Plain text
-#: 0700.en.adoc:17
+#: 0700.en.adoc:21
 msgid "The responsibilities of the Executive Secretary include:"
 msgstr ""
 
 #. type: Plain text
-#: 0700.en.adoc:19
+#: 0700.en.adoc:24
 msgid "implementing the Work Programme and expenditure of the Budget"
 msgstr ""
 
 #. type: Plain text
-#: 0700.en.adoc:20
+#: 0700.en.adoc:25
 msgid "hiring such staff as may be required to carry out the Work Programme"
 msgstr ""
 
 #. type: Plain text
-#: 0700.en.adoc:21
+#: 0700.en.adoc:26
 msgid ""
 "supervising the work of the GBIF Secretariat and its staff, including "
 "consultants and seconded personnel"
 msgstr ""
 
 #. type: Plain text
-#: 0700.en.adoc:22
+#: 0700.en.adoc:27
 msgid ""
 "preparing and submitting to the Governing Board, no later than three months "
 "before the beginning of each financial year, either a draft Work Programme "
@@ -1073,19 +1073,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0700.en.adoc:23
+#: 0700.en.adoc:28
 msgid ""
 "providing the Governing Board with an audited annual Financial Report for "
 "approval"
 msgstr ""
 
 #. type: Plain text
-#: 0700.en.adoc:24
+#: 0700.en.adoc:29
 msgid "providing the Governing Board with a substantive Annual Report"
 msgstr ""
 
 #. type: Plain text
-#: 0700.en.adoc:24
+#: 0700.en.adoc:30
 msgid "representing GBIF as appropriate"
 msgstr ""
 
@@ -1128,7 +1128,7 @@ msgid "Intellectual Property Rights to Biodiversity Data"
 msgstr ""
 
 #. type: Plain text
-#: 0800.en.adoc:15
+#: 0800.en.adoc:16
 msgid ""
 "GBIF promotes the free dissemination of biodiversity data and, in "
 "particular:"
@@ -1139,14 +1139,26 @@ msgstr ""
 msgid ""
 "should not assert any proprietary rights to the data in databases that are "
 "developed by other organisations and that subsequently become affiliated to "
-"GBIF (b) should seek, to the greatest extent possible, to make freely and "
-"openly available, with the least possible restrictions on reuse, any data "
-"commissioned, created or developed directly by GBIF (c) should respect "
-"conditions set by data publishers that affiliate their databases to GBIF"
+"GBIF"
+msgstr ""
+
+#. type: Plain text
+#: 0800.en.adoc:20
+msgid ""
+"should seek, to the greatest extent possible, to make freely and openly "
+"available, with the least possible restrictions on reuse, any data "
+"commissioned, created or developed directly by GBIF"
 msgstr ""
 
 #. type: Plain text
 #: 0800.en.adoc:21
+msgid ""
+"should respect conditions set by data publishers that affiliate their "
+"databases to GBIF"
+msgstr ""
+
+#. type: Plain text
+#: 0800.en.adoc:23
 msgid ""
 "When establishing affiliations or linkages with other databases, GBIF should "
 "seek to ensure that the data so made available will not be subject to "
@@ -1155,12 +1167,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0800.en.adoc:23
+#: 0800.en.adoc:26
 msgid "Attribution"
 msgstr ""
 
 #. type: Plain text
-#: 0800.en.adoc:25
+#: 0800.en.adoc:28
 msgid ""
 "GBIF seeks to ensure that the publisher/holder of data is acknowledged and "
 "requests that such attribution be maintained in any subsequent use of the "
@@ -1168,24 +1180,24 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0800.en.adoc:27
+#: 0800.en.adoc:30
 msgid "Access to Specific Data"
 msgstr ""
 
 #. type: Plain text
-#: 0800.en.adoc:29
+#: 0800.en.adoc:32
 msgid ""
 "Nothing in this MOU should be read to restrict the right of publisher/holder "
 "of databases affiliated with GBIF to restrict access to any data."
 msgstr ""
 
 #. type: Plain text
-#: 0800.en.adoc:31
+#: 0800.en.adoc:34
 msgid "Validity of Data"
 msgstr ""
 
 #. type: Plain text
-#: 0800.en.adoc:33
+#: 0800.en.adoc:36
 msgid ""
 "It should be a condition of access to and use of GBIF accessible data that "
 "users acknowledge that the validity of the data in any databases affiliated "
@@ -1195,12 +1207,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0800.en.adoc:35
+#: 0800.en.adoc:38
 msgid "Legitimacy of Data Collection"
 msgstr ""
 
 #. type: Plain text
-#: 0800.en.adoc:37
+#: 0800.en.adoc:40
 msgid ""
 "Where the collection of new data has entailed access to biodiversity "
 "resources, GBIF should ask for reasonable assurances from the data "
@@ -1209,12 +1221,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0800.en.adoc:39
+#: 0800.en.adoc:42
 msgid "Intellectual Property Rights to Biodiversity Tools"
 msgstr ""
 
 #. type: Plain text
-#: 0800.en.adoc:41
+#: 0800.en.adoc:44
 msgid ""
 "GBIF may claim appropriate Intellectual Property Rights available within "
 "applicable national jurisdictions over any tools, such as search engines or "
@@ -1223,12 +1235,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0800.en.adoc:43
+#: 0800.en.adoc:46
 msgid "Technology Transfer"
 msgstr ""
 
 #. type: Plain text
-#: 0800.en.adoc:44
+#: 0800.en.adoc:47
 msgid ""
 "The Participants acknowledge that, subject to any relevant Intellectual "
 "Property Rights, GBIF should seek to promote the non-exclusive transfer, on "
@@ -1249,7 +1261,7 @@ msgid "Basic Financial Contributions"
 msgstr ""
 
 #. type: Plain text
-#: 0900.en.adoc:7
+#: 0900.en.adoc:8
 msgid ""
 "Basic Financial Contributions are the annual contribution to GBIF from "
 "Voting Participants calculated according to approved Guidelines for "
@@ -1263,7 +1275,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0900.en.adoc:8
+#: 0900.en.adoc:9
 msgid ""
 "The Governing Board may decide by consensus to change - based upon the "
 "Guidelines for calculating Basic Financial Contributions (See 4.6(g)) - the "
@@ -1272,7 +1284,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0900.en.adoc:9
+#: 0900.en.adoc:10
 msgid ""
 "The annual contributions are to be transferred to the GBIF Secretariat in "
 "accordance with the financial arrangements described in Paragraph 10.2 to be "
@@ -1281,7 +1293,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0900.en.adoc:10
+#: 0900.en.adoc:11
 msgid ""
 "The Governing Board is to approve by consensus a new Table of suggested "
 "Basic Financial Contributions for Voting Participants for a next multi-year "
@@ -1290,12 +1302,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0900.en.adoc:12
+#: 0900.en.adoc:13
 msgid "Supplementary Financial Contributions"
 msgstr ""
 
 #. type: Plain text
-#: 0900.en.adoc:14
+#: 0900.en.adoc:16
 msgid ""
 "In addition to Basic Financial Contributions, both Voting and Associate "
 "Participants may make Supplementary Financial Contributions to fund specific "
@@ -1306,24 +1318,29 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0900.en.adoc:16
+#: 0900.en.adoc:17
 msgid ""
 "Other Income (also regarded as Supplementary Financial Contributions) The "
 "Secretariat may accept other income from additional sources "
 "(e.g. foundations, agencies, research councils, and private companies) "
-"offered for the purposes set out in this MOU and the Strategic Plan.  (c) "
+"offered for the purposes set out in this MOU and the Strategic Plan."
+msgstr ""
+
+#. type: Plain text
+#: 0900.en.adoc:18
+msgid ""
 "Supplementary Financial Contributions are to be held by the GBIF Secretariat "
 "separate from the Basic Financial Contributions. Funds may only be used for "
 "the purposes specified by the contributor."
 msgstr ""
 
 #. type: Plain text
-#: 0900.en.adoc:18
+#: 0900.en.adoc:20
 msgid "Costs Borne by Participants"
 msgstr ""
 
 #. type: Plain text
-#: 0900.en.adoc:20
+#: 0900.en.adoc:22
 msgid ""
 "Participants bear the costs of their own participation in GBIF, including "
 "the costs of establishing and supporting their Participant Biodiversity "
@@ -1334,12 +1351,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0900.en.adoc:22
+#: 0900.en.adoc:24
 msgid "Crediting of Income"
 msgstr ""
 
 #. type: Plain text
-#: 0900.en.adoc:23
+#: 0900.en.adoc:25
 msgid ""
 "Any income generated in the course of GBIF activities that accrues to the "
 "GBIF Secretariat is to be used for advancing the GBIF Work Programme."
@@ -1371,7 +1388,7 @@ msgid "Participant Status"
 msgstr ""
 
 #. type: Plain text
-#: 1000.en.adoc:11
+#: 1000.en.adoc:13
 msgid ""
 "A country that has signed the MOU becomes a Voting Participant on the "
 "Governing Board by deciding to make a Basic Financial Contribution and "
@@ -1383,7 +1400,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 1000.en.adoc:12
+#: 1000.en.adoc:14
 msgid ""
 "In order to retain voting rights a Voting Participant is requested to make "
 "its financial contribution each year within the first three months of the "
@@ -1392,7 +1409,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 1000.en.adoc:14
+#: 1000.en.adoc:16
 msgid ""
 "The voting rights of a Voting Participant that is more than one financial "
 "year behind paying its basic financial contribution in accordance with the "
@@ -1401,12 +1418,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 1000.en.adoc:16
+#: 1000.en.adoc:19
 msgid "Disassociation of Participants"
 msgstr ""
 
 #. type: Plain text
-#: 1000.en.adoc:18
+#: 1000.en.adoc:22
 msgid ""
 "Any Participant may disassociate itself from this MOU by advising the "
 "Governing Board in writing of its intention to do so and of the effective "
@@ -1414,7 +1431,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 1000.en.adoc:18
+#: 1000.en.adoc:22
 msgid ""
 "In the event of disassociation of a Voting Participant, the Governing Board "
 "may decide by consensus to adjust the Work Programme and the Budget to take "

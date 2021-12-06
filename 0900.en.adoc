@@ -1,23 +1,25 @@
 [[short-id]]
-== FINANCE
+== Finance
 
-. Basic Financial Contributions
+=== Basic Financial Contributions
 
-a. Basic Financial Contributions are the annual contribution to GBIF from Voting Participants calculated according to approved Guidelines for calculating Basic Financial Contributions (See 4.6(g)). A Table of suggested Basic Financial Contributions for Voting Participants should be calculated and presented by the GBIF Executive Committee for approval by the Governing Board on a multi-year basis. This Table should indicate the suggested contributions in actual figures for each Voting Participant for each of the years in a multi-year period calculated on the basis of an approved multi-year Budget Plan for GBIF.
-b. The Governing Board may decide by consensus to change - based upon the Guidelines for calculating Basic Financial Contributions (See 4.6(g)) - the approved Table of suggested Basic Financial Contribution during the multi-year period.
-c. The annual contributions are to be transferred to the GBIF Secretariat in accordance with the financial arrangements described in Paragraph 10.2 to be held by the GBIF Secretariat in a Central Fund and used as stipulated in the Budget approved by Governing Board.
-d. The Governing Board is to approve by consensus a new Table of suggested Basic Financial Contributions for Voting Participants for a next multi-year period well in advance of the expiration of the current approved Table of Basic Financial Contributions.
+[loweralpha]
+. Basic Financial Contributions are the annual contribution to GBIF from Voting Participants calculated according to approved Guidelines for calculating Basic Financial Contributions (See 4.6(g)). A Table of suggested Basic Financial Contributions for Voting Participants should be calculated and presented by the GBIF Executive Committee for approval by the Governing Board on a multi-year basis. This Table should indicate the suggested contributions in actual figures for each Voting Participant for each of the years in a multi-year period calculated on the basis of an approved multi-year Budget Plan for GBIF.
+. The Governing Board may decide by consensus to change - based upon the Guidelines for calculating Basic Financial Contributions (See 4.6(g)) - the approved Table of suggested Basic Financial Contribution during the multi-year period.
+. The annual contributions are to be transferred to the GBIF Secretariat in accordance with the financial arrangements described in Paragraph 10.2 to be held by the GBIF Secretariat in a Central Fund and used as stipulated in the Budget approved by Governing Board.
+. The Governing Board is to approve by consensus a new Table of suggested Basic Financial Contributions for Voting Participants for a next multi-year period well in advance of the expiration of the current approved Table of Basic Financial Contributions.
 
-. Supplementary Financial Contributions
+=== Supplementary Financial Contributions
 
-a. In addition to Basic Financial Contributions, both Voting and Associate Participants may make Supplementary Financial Contributions to fund specific parts of the Work Programme, or for other specified purposes decided upon by the Governing Board. Those specified purposes may include facilitating attendance by Participants from developing countries at meetings of the Governing Board.
-b. Other Income (also regarded as Supplementary Financial Contributions) The Secretariat may accept other income from additional sources (e.g. foundations, agencies, research councils, and private companies) offered for the purposes set out in this MOU and the Strategic Plan.
-(c) Supplementary Financial Contributions are to be held by the GBIF Secretariat separate from the Basic Financial Contributions. Funds may only be used for the purposes specified by the contributor.
+[loweralpha]
+. In addition to Basic Financial Contributions, both Voting and Associate Participants may make Supplementary Financial Contributions to fund specific parts of the Work Programme, or for other specified purposes decided upon by the Governing Board. Those specified purposes may include facilitating attendance by Participants from developing countries at meetings of the Governing Board.
+. Other Income (also regarded as Supplementary Financial Contributions) The Secretariat may accept other income from additional sources (e.g. foundations, agencies, research councils, and private companies) offered for the purposes set out in this MOU and the Strategic Plan.
+. Supplementary Financial Contributions are to be held by the GBIF Secretariat separate from the Basic Financial Contributions. Funds may only be used for the purposes specified by the contributor.
 
-. Costs Borne by Participants
+=== Costs Borne by Participants
 
 Participants bear the costs of their own participation in GBIF, including the costs of establishing and supporting their Participant Biodiversity Information Facility, programmes for digitisation of biodiversity data, formulating or transmitting reports, travel costs for their delegates, and other expenses related to attendance by their representatives at meetings of the Governing Board and other GBIF functions, events, and activities.
 
-. Crediting of Income
+=== Crediting of Income
 
 Any income generated in the course of GBIF activities that accrues to the GBIF Secretariat is to be used for advancing the GBIF Work Programme.
