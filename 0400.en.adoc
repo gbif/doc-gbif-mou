@@ -1,18 +1,18 @@
 == The Governing Board
 
-. Role and Purpose
-+
+=== Role and Purpose
+
 The Governing Board is the means by which the Participants make collective decisions
 on all matters relating to GBIF, which both the Participants and the Secretariat then
 carry out coordinated or facilitated by the Secretariat.
 
-. Composition
-+
+=== Composition
+
 The Governing Board consists of one representative from each Participant.
-+
+
 There are two modes of participation:
-+
---
+
+
 [loweralpha]
 . Voting Participants
 +
@@ -48,22 +48,20 @@ eligible to become Voting Participants. This category is not limited in time.
 +
 Associate Participants are encouraged to take part in the deliberations of the
 Governing Board, but may not vote.
---
 
-. Additional Participants
-+
+=== Additional Participants
+
 The Secretariat of the Convention on Biological Diversity is invited to designate a nonvoting representative to the Governing Board.
 
-. Observers
-+
+=== Observers
+
 Countries or organisations or other international bodies that have not signed the MOU,
 but are interested in sharing biodiversity data and follow the activities of GBIF, may
 be recognized by the GBIF Governing Board as observers as well as former Associate
 Participant Countries deciding to be observers. (See 4.2.b(iii))
 
-. Voting
-+
---
+=== Voting
+
 [loweralpha]
 . The Governing Board works by consensus where mandated in this MOU. Such
 consensus means consensus of Voting Participants present.
@@ -79,13 +77,11 @@ Participants present and voting.
 means of a consensus decision or a vote of the Participants present and voting,
 “present” can mean face-to-face, by telephone, Internet, video conference, or
 other practical means determined in advance by the Governing Board.
---
 
-. Responsibilities
-+
+=== Responsibilities
+
 The Governing Board may:
-+
---
+
 [loweralpha]
 . establish its Rules of Procedure and such subsidiary bodies as it sees necessary for
 its proper functioning and the achievement of GBIF goals;
@@ -114,10 +110,9 @@ position and monitor the Executive Secretary’s performance;
 . carry out other functions conferred upon it by this MOU; and
 . consider any matters pertaining to GBIF or its operations submitted to it by the
 Executive Secretary, the GBIF Secretariat Host, or by any Participant.
---
 
-. Executive Committee
-+
+=== Executive Committee
+
 The Governing Board may establish an Executive Committee that is responsible for
 monitoring the performance of the Secretariat in implementing the decisions of the
 Governing Board, including the Strategic Plan, governance issues, the Work

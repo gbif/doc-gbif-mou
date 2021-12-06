@@ -1,27 +1,28 @@
 [[short-id]]
 == The GBIF Secretariat 
 
-. Role and Responsibility
+=== Role and Responsibility
 
 The GBIF Secretariat is to execute the Work Programme in accordance with the Strategic Plan, and spend the Budget, under the direction of the Executive Secretary.
 
-. Designation
+=== Designation
 
 The GBIF Secretariat consists of the Executive Secretary and such other staff as are judged necessary by the Governing Board.
 
-. Accountability
+=== Accountability
 
 The GBIF Secretariat is accountable through the Executive Secretary to the Governing Board for the execution of all scientific, financial and administrative activities undertaken to implement the GBIF Work Programme. The activities of the GBIF Secretariat will be subject to the laws and regulations in force in the country of the GBIF Secretariat Host.
 
-. Tasks
+=== Tasks
 
 The GBIF Secretariat:
 
-a. employs the Executive Secretary and other GBIF Secretariat staff
-b. holds the Central Fund described in Paragraph 9.1
-c. is responsible for developing financial arrangements with Voting Participants specifying how those Participants make their financial contributions to the Central Fund
-d. hold in trust, and for the benefit of the Participants, all assets which may accrue to or be acquired for GBIF
+[loweralpha]
+. employs the Executive Secretary and other GBIF Secretariat staff
+. holds the Central Fund described in Paragraph 9.1
+. is responsible for developing financial arrangements with Voting Participants specifying how those Participants make their financial contributions to the Central Fund
+. hold in trust, and for the benefit of the Participants, all assets which may accrue to or be acquired for GBIF
 
-. Cooperation
+=== Cooperation
 
 The GBIF Secretariat may, as appropriate, conclude memorandums of cooperation with national or regional biodiversity facilities or organisations with the purpose of coordinating collective efforts as specified in Paragraphs 3.3.e and 3.3.f.
