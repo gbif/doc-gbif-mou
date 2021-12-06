@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-12-06 17:41+0000\n"
+"POT-Creation-Date: 2021-12-06 17:43+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -737,7 +737,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0400.en.adoc:85 0700.en.adoc:20
+#: 0400.en.adoc:85 0700.en.adoc:15
 msgid "Responsibilities"
 msgstr ""
 
@@ -935,7 +935,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0600.en.adoc:13
+#: 0600.en.adoc:13 0700.en.adoc:11
 msgid "Accountability"
 msgstr ""
 
@@ -1001,55 +1001,92 @@ msgstr ""
 #. type: Title ==
 #: 0700.en.adoc:2
 #, no-wrap
-msgid "Paragraph 7"
+msgid "The Executive Secretary"
 msgstr ""
 
 #. type: Plain text
-#: 0700.en.adoc:4
-msgid "THE EXECUTIVE SECRETARY"
-msgstr ""
-
-#. type: Plain text
-#: 0700.en.adoc:6
+#: 0700.en.adoc:5
 msgid "Role and Authority"
 msgstr ""
 
 #. type: Plain text
-#: 0700.en.adoc:14
+#: 0700.en.adoc:7
 msgid ""
-"(a) The Executive Secretary acts as the chief executive officer of GBIF and "
-"the Executive Director of the GBIF Secretariat.  (b) The Executive Secretary "
-"has the authority, within limits and guidelines decided by the Governing "
-"Board, and, subject to the provisions of this Memorandum of Understanding, "
-"to enter into contracts and administer funds on behalf of GBIF.  (c) The "
-"activities of the Executive Secretary are subject to the laws and "
+"The Executive Secretary acts as the chief executive officer of GBIF and the "
+"Executive Director of the GBIF Secretariat."
+msgstr ""
+
+#. type: Plain text
+#: 0700.en.adoc:8
+msgid ""
+"The Executive Secretary has the authority, within limits and guidelines "
+"decided by the Governing Board, and, subject to the provisions of this "
+"Memorandum of Understanding, to enter into contracts and administer funds on "
+"behalf of GBIF."
+msgstr ""
+
+#. type: Plain text
+#: 0700.en.adoc:9
+msgid ""
+"The activities of the Executive Secretary are subject to the laws and "
 "regulations in force in the country of the GBIF Secretariat Host."
 msgstr ""
 
 #. type: Plain text
-#: 0700.en.adoc:18
+#: 0700.en.adoc:13
 msgid ""
-"Accountability The Executive Secretary is accountable to the Governing Board "
-"for all scientific, financial and administrative activities of the GBIF "
-"Secretariat."
+"The Executive Secretary is accountable to the Governing Board for all "
+"scientific, financial and administrative activities of the GBIF Secretariat."
 msgstr ""
 
 #. type: Plain text
-#: 0700.en.adoc:35
+#: 0700.en.adoc:17
+msgid "The responsibilities of the Executive Secretary include:"
+msgstr ""
+
+#. type: Plain text
+#: 0700.en.adoc:19
+msgid "implementing the Work Programme and expenditure of the Budget"
+msgstr ""
+
+#. type: Plain text
+#: 0700.en.adoc:20
+msgid "hiring such staff as may be required to carry out the Work Programme"
+msgstr ""
+
+#. type: Plain text
+#: 0700.en.adoc:21
 msgid ""
-"The responsibilities of the Executive Secretary include: (a) implementing "
-"the Work Programme and expenditure of the Budget; (b) hiring such staff as "
-"may be required to carry out the Work Programme; (c) supervising the work of "
-"the GBIF Secretariat and its staff, including consultants and seconded "
-"personnel; (d) preparing and submitting to the Governing Board, no later "
-"than three months before the beginning of each financial year, either a "
-"draft Work Programme and/or an update on a previously approved Work "
-"Programme together with a Budget Proposal for the forthcoming financial year "
-"- including a forecast. The Budget Proposal will in addition include "
-"information on the status of the Supplementary or other Funds (See 9.2 and "
-"9.3); (e) providing the Governing Board with an audited annual Financial "
-"Report for approval; (f) providing the Governing Board with a substantive "
-"Annual Report; and (g) representing GBIF as appropriate."
+"supervising the work of the GBIF Secretariat and its staff, including "
+"consultants and seconded personnel"
+msgstr ""
+
+#. type: Plain text
+#: 0700.en.adoc:22
+msgid ""
+"preparing and submitting to the Governing Board, no later than three months "
+"before the beginning of each financial year, either a draft Work Programme "
+"and/or an update on a previously approved Work Programme together with a "
+"Budget Proposal for the forthcoming financial year - including a "
+"forecast. The Budget Proposal will in addition include information on the "
+"status of the Supplementary or other Funds (See 9.2 and 9.3)"
+msgstr ""
+
+#. type: Plain text
+#: 0700.en.adoc:23
+msgid ""
+"providing the Governing Board with an audited annual Financial Report for "
+"approval"
+msgstr ""
+
+#. type: Plain text
+#: 0700.en.adoc:24
+msgid "providing the Governing Board with a substantive Annual Report"
+msgstr ""
+
+#. type: Plain text
+#: 0700.en.adoc:24
+msgid "representing GBIF as appropriate"
 msgstr ""
 
 #. type: Title ==
