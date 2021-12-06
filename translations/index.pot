@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-12-06 17:43+0000\n"
+"POT-Creation-Date: 2021-12-06 17:54+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1092,103 +1092,149 @@ msgstr ""
 #. type: Title ==
 #: 0800.en.adoc:2
 #, no-wrap
-msgid "Paragraph 8"
+msgid "Intellectual Property"
 msgstr ""
 
 #. type: Plain text
-#: 0800.en.adoc:4
-msgid "INTELLECTUAL PROPERTY"
+#: 0800.en.adoc:5
+msgid "Applicable Law"
+msgstr ""
+
+#. type: Plain text
+#: 0800.en.adoc:7
+msgid ""
+"Nothing in this MOU should be read to alter the scope and application of "
+"Intellectual Property Rights and benefit sharing agreements as determined "
+"under relevant laws, regulations and international agreements of the "
+"Participants."
 msgstr ""
 
 #. type: Plain text
 #: 0800.en.adoc:9
-msgid ""
-"Applicable Law Nothing in this MOU should be read to alter the scope and "
-"application of Intellectual Property Rights and benefit sharing agreements "
-"as determined under relevant laws, regulations and international agreements "
-"of the Participants."
+msgid "Access to Data"
 msgstr ""
 
 #. type: Plain text
-#: 0800.en.adoc:14
+#: 0800.en.adoc:11
 msgid ""
-"Access to Data To the greatest extent possible, GBIF is an open-access "
-"facility. All users whether GBIF Participants or others, should have equal "
-"access to data in databases affiliated with or developed by GBIF."
+"To the greatest extent possible, GBIF is an open-access facility. All users "
+"whether GBIF Participants or others, should have equal access to data in "
+"databases affiliated with or developed by GBIF."
+msgstr ""
+
+#. type: Plain text
+#: 0800.en.adoc:13
+msgid "Intellectual Property Rights to Biodiversity Data"
+msgstr ""
+
+#. type: Plain text
+#: 0800.en.adoc:15
+msgid ""
+"GBIF promotes the free dissemination of biodiversity data and, in "
+"particular:"
+msgstr ""
+
+#. type: Plain text
+#: 0800.en.adoc:19
+msgid ""
+"should not assert any proprietary rights to the data in databases that are "
+"developed by other organisations and that subsequently become affiliated to "
+"GBIF (b) should seek, to the greatest extent possible, to make freely and "
+"openly available, with the least possible restrictions on reuse, any data "
+"commissioned, created or developed directly by GBIF (c) should respect "
+"conditions set by data publishers that affiliate their databases to GBIF"
+msgstr ""
+
+#. type: Plain text
+#: 0800.en.adoc:21
+msgid ""
+"When establishing affiliations or linkages with other databases, GBIF should "
+"seek to ensure that the data so made available will not be subject to "
+"limitations on the further non-commercial use and dissemination of those "
+"data, apart from due attribution of their source."
+msgstr ""
+
+#. type: Plain text
+#: 0800.en.adoc:23
+msgid "Attribution"
+msgstr ""
+
+#. type: Plain text
+#: 0800.en.adoc:25
+msgid ""
+"GBIF seeks to ensure that the publisher/holder of data is acknowledged and "
+"requests that such attribution be maintained in any subsequent use of the "
+"data."
+msgstr ""
+
+#. type: Plain text
+#: 0800.en.adoc:27
+msgid "Access to Specific Data"
 msgstr ""
 
 #. type: Plain text
 #: 0800.en.adoc:29
 msgid ""
-"Intellectual Property Rights to Biodiversity Data GBIF promotes the free "
-"dissemination of biodiversity data and, in particular: (a) should not assert "
-"any proprietary rights to the data in databases that are developed by other "
-"organisations and that subsequently become affiliated to GBIF; (b) should "
-"seek, to the greatest extent possible, to make freely and openly available, "
-"with the least possible restrictions on reuse, any data commissioned, "
-"created or developed directly by GBIF; and (c) should respect conditions set "
-"by data publishers that affiliate their databases to GBIF.  When "
-"establishing affiliations or linkages with other databases, GBIF should seek "
-"to ensure that the data so made available will not be subject to limitations "
-"on the further non-commercial use and dissemination of those data, apart "
-"from due attribution of their source."
+"Nothing in this MOU should be read to restrict the right of publisher/holder "
+"of databases affiliated with GBIF to restrict access to any data."
+msgstr ""
+
+#. type: Plain text
+#: 0800.en.adoc:31
+msgid "Validity of Data"
 msgstr ""
 
 #. type: Plain text
 #: 0800.en.adoc:33
 msgid ""
-"Attribution GBIF seeks to ensure that the publisher/holder of data is "
-"acknowledged and requests that such attribution be maintained in any "
-"subsequent use of the data."
+"It should be a condition of access to and use of GBIF accessible data that "
+"users acknowledge that the validity of the data in any databases affiliated "
+"with GBIF cannot be assured. GBIF disclaims responsibility for the accuracy "
+"and reliability of the data as well as for the suitability of its "
+"application for any particular purpose."
+msgstr ""
+
+#. type: Plain text
+#: 0800.en.adoc:35
+msgid "Legitimacy of Data Collection"
 msgstr ""
 
 #. type: Plain text
 #: 0800.en.adoc:37
 msgid ""
-"Access to Specific Data Nothing in this MOU should be read to restrict the "
-"right of publisher/holder of databases affiliated with GBIF to restrict "
-"access to any data."
+"Where the collection of new data has entailed access to biodiversity "
+"resources, GBIF should ask for reasonable assurances from the data "
+"publisher/holder that such access was consistent with applicable laws, "
+"regulations and any relevant requirements for prior informed consent."
+msgstr ""
+
+#. type: Plain text
+#: 0800.en.adoc:39
+msgid "Intellectual Property Rights to Biodiversity Tools"
+msgstr ""
+
+#. type: Plain text
+#: 0800.en.adoc:41
+msgid ""
+"GBIF may claim appropriate Intellectual Property Rights available within "
+"applicable national jurisdictions over any tools, such as search engines or "
+"other software products that are developed by GBIF while carrying out the "
+"GBIF Work Programme."
 msgstr ""
 
 #. type: Plain text
 #: 0800.en.adoc:43
-msgid ""
-"Validity of Data It should be a condition of access to and use of GBIF "
-"accessible data that users acknowledge that the validity of the data in any "
-"databases affiliated with GBIF cannot be assured. GBIF disclaims "
-"responsibility for the accuracy and reliability of the data as well as for "
-"the suitability of its application for any particular purpose."
+msgid "Technology Transfer"
 msgstr ""
 
 #. type: Plain text
-#: 0800.en.adoc:49
+#: 0800.en.adoc:44
 msgid ""
-"Legitimacy of Data Collection Where the collection of new data has entailed "
-"access to biodiversity resources, GBIF should ask for reasonable assurances "
-"from the data publisher/holder that such access was consistent with "
-"applicable laws, regulations and any relevant requirements for prior "
-"informed consent."
-msgstr ""
-
-#. type: Plain text
-#: 0800.en.adoc:54
-msgid ""
-"Intellectual Property Rights to Biodiversity Tools GBIF may claim "
-"appropriate Intellectual Property Rights available within applicable "
-"national jurisdictions over any tools, such as search engines or other "
-"software products that are developed by GBIF while carrying out the GBIF "
-"Work Programme."
-msgstr ""
-
-#. type: Plain text
-#: 0800.en.adoc:60
-msgid ""
-"Technology Transfer The Participants acknowledge that, subject to any "
-"relevant Intellectual Property Rights, GBIF should seek to promote the "
-"non-exclusive transfer, on mutually decided terms, to research institutions, "
-"particularly in developing countries, of such informatics technology as it "
-"has available, especially in conjunction with training and capacity "
-"development programs."
+"The Participants acknowledge that, subject to any relevant Intellectual "
+"Property Rights, GBIF should seek to promote the non-exclusive transfer, on "
+"mutually decided terms, to research institutions, particularly in developing "
+"countries, of such informatics technology as it has available, especially in "
+"conjunction with training and capacity development programs."
 msgstr ""
 
 #. type: Title ==
@@ -1425,143 +1471,6 @@ msgid ""
 "|3    |Item 3     |c\n"
 "|6    |Three items|d\n"
 "|https://doi.org/10.1548/xyz123[Source]| | |\n"
-msgstr ""
-
-#. type: Title ==
-#: afterword.en.adoc:2
-#, no-wrap
-msgid "Acknowledgements"
-msgstr ""
-
-#. type: Plain text
-#: afterword.en.adoc:5
-msgid ""
-"This formal statement recognizes individuals and institutions that made "
-"direct contributions to your work. This is a simple statement of gratitude, "
-"not dedication or very emotional testimonial. The people and institutions "
-"you should consider listing include:"
-msgstr ""
-
-#. type: Plain text
-#: afterword.en.adoc:7
-msgid "Those who provided guidance"
-msgstr ""
-
-#. type: Plain text
-#: afterword.en.adoc:8
-msgid "Those who shared unpublished (and therefore uncitable) work"
-msgstr ""
-
-#. type: Plain text
-#: afterword.en.adoc:9
-msgid "Those who provided you with facilities or equipment"
-msgstr ""
-
-#. type: Plain text
-#: afterword.en.adoc:10
-msgid "Those who participated in discussions"
-msgstr ""
-
-#. type: Plain text
-#: afterword.en.adoc:11
-msgid "Technicians, lab assistants, students and interns"
-msgstr ""
-
-#. type: Plain text
-#: afterword.en.adoc:12
-msgid ""
-"Host or hosting institions and funding agencies (with grant number, if "
-"required)"
-msgstr ""
-
-#. type: Plain text
-#: afterword.en.adoc:14
-msgid "You may also wish to acknowledge the non-techincal contributions of:"
-msgstr ""
-
-#. type: Plain text
-#: afterword.en.adoc:16
-msgid "Graphic designers"
-msgstr ""
-
-#. type: Plain text
-#: afterword.en.adoc:17
-msgid "Photographers"
-msgstr ""
-
-#. type: Plain text
-#: afterword.en.adoc:18
-msgid "Those who provided emotional support"
-msgstr ""
-
-#. type: Plain text
-#: afterword.en.adoc:19
-msgid "Others whose support was non-technical"
-msgstr ""
-
-#. type: Plain text
-#: afterword.en.adoc:20
-msgid ""
-"When naming individuals whose contribution you intend to acknowledge, use "
-"only their names without titles. For example write only Aldo Leopold, "
-"instead Aldo Leopold, Professor of Game Management, Agricultural Economics "
-"Department, University of Wisconsin."
-msgstr ""
-
-#. type: Title ==
-#: appa.en.adoc:2
-#, no-wrap
-msgid "Example"
-msgstr ""
-
-#. type: Plain text
-#: appa.en.adoc:5
-msgid ""
-"An AsciiDoc appendix is just a document section with a 'specialsection' "
-"title."
-msgstr ""
-
-#. type: Plain text
-#: appa.en.adoc:7
-msgid ""
-"Place non-essential information that supports your analysis, validates your "
-"conclusions or pursues a related point in an appendix. Examples could "
-"include:"
-msgstr ""
-
-#. type: Plain text
-#: appa.en.adoc:9
-msgid "figures/tables/charts/graphs of results"
-msgstr ""
-
-#. type: Plain text
-#: appa.en.adoc:10
-msgid "statistics"
-msgstr ""
-
-#. type: Plain text
-#: appa.en.adoc:11
-msgid "questionnaires"
-msgstr ""
-
-#. type: Plain text
-#: appa.en.adoc:12
-msgid "transcripts of interviews"
-msgstr ""
-
-#. type: Plain text
-#: appa.en.adoc:13
-msgid "survey results"
-msgstr ""
-
-#. type: Plain text
-#: appa.en.adoc:14
-msgid "maps"
-msgstr ""
-
-#. type: Plain text
-#: appa.en.adoc:14
-msgid "software installation instructions"
 msgstr ""
 
 #. type: Title ==
