@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-12-06 18:53+0000\n"
+"POT-Creation-Date: 2021-12-06 18:55+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1348,54 +1348,80 @@ msgstr ""
 #. type: Title ==
 #: 1000.en.adoc:2
 #, no-wrap
-msgid "Paragraph 10"
+msgid "Association and Disassociation of Participants"
 msgstr ""
 
 #. type: Plain text
-#: 1000.en.adoc:4
-msgid "ASSOCIATION AND DISASSOCIATION OF PARTICIPANTS"
+#: 1000.en.adoc:5
+msgid "Association of Participants"
 msgstr ""
 
 #. type: Plain text
-#: 1000.en.adoc:10
+#: 1000.en.adoc:7
 msgid ""
-"Association of Participants Association with GBIF is open to any country, "
-"economy, inter-governmental, international organisation or organisation with "
-"an international scope or to an entity designated by them as described in "
-"Paragraph 1.2. Such association becomes effective upon signature of this "
-"MOU."
+"Association with GBIF is open to any country, economy, intergovernmental, "
+"international organisation or organisation with an international scope or to "
+"an entity designated by them as described in Paragraph 1.2. Such association "
+"becomes effective upon signature of this MOU."
 msgstr ""
 
 #. type: Plain text
-#: 1000.en.adoc:25
-msgid ""
-"Participant Status (a) A country that has signed the MOU becomes a Voting "
-"Participant on the Governing Board by deciding to make a Basic Financial "
-"Contribution and making the financial arrangement negotiated with the GBIF "
-"Secretariat, as described in Paragraph 6.4(c). This arrangement sets out the "
-"Voting Participant’s financial contribution calculated on the basis of the "
-"approved Guidelines for calculating Basic Financial Contributions (See "
-"4.6(g)) and the period for which the arrangement is valid.  (b) In order to "
-"retain voting rights a Voting Participant is requested to make its financial "
-"contribution each year within the first three months of the GBIF financial "
-"year, unless the Executive Committee has approved a later payment "
-"arrangement for the financial year.  The voting rights of a Voting "
-"Participant that is more than one financial year behind paying its basic "
-"financial contribution in accordance with the financial arrangement will be "
-"suspended until it has made all outstanding financial contributions."
+#: 1000.en.adoc:9
+msgid "Participant Status"
 msgstr ""
 
 #. type: Plain text
-#: 1000.en.adoc:34
+#: 1000.en.adoc:11
 msgid ""
-"Disassociation of Participants (a) Any Participant may disassociate itself "
-"from this MOU by advising the Governing Board in writing of its intention to "
-"do so and of the effective date of disassociation.  (b) In the event of "
-"disassociation of a Voting Participant, the Governing Board may decide by "
-"consensus to adjust the Work Programme and the Budget to take account of "
-"such disassociation or, again by consensus, may decide to adjust the "
-"contributions of Participants to the Budget in accordance with the approved "
-"Guidelines for calculating Basic Financial Contribution (See 4.6(g))."
+"A country that has signed the MOU becomes a Voting Participant on the "
+"Governing Board by deciding to make a Basic Financial Contribution and "
+"making the financial arrangement negotiated with the GBIF Secretariat, as "
+"described in Paragraph 6.4(c). This arrangement sets out the Voting "
+"Participant’s financial contribution calculated on the basis of the approved "
+"Guidelines for calculating Basic Financial Contributions (See 4.6(g)) and "
+"the period for which the arrangement is valid."
+msgstr ""
+
+#. type: Plain text
+#: 1000.en.adoc:12
+msgid ""
+"In order to retain voting rights a Voting Participant is requested to make "
+"its financial contribution each year within the first three months of the "
+"GBIF financial year, unless the Executive Committee has approved a later "
+"payment arrangement for the financial year."
+msgstr ""
+
+#. type: Plain text
+#: 1000.en.adoc:14
+msgid ""
+"The voting rights of a Voting Participant that is more than one financial "
+"year behind paying its basic financial contribution in accordance with the "
+"financial arrangement will be suspended until it has made all outstanding "
+"financial contributions."
+msgstr ""
+
+#. type: Plain text
+#: 1000.en.adoc:16
+msgid "Disassociation of Participants"
+msgstr ""
+
+#. type: Plain text
+#: 1000.en.adoc:18
+msgid ""
+"Any Participant may disassociate itself from this MOU by advising the "
+"Governing Board in writing of its intention to do so and of the effective "
+"date of disassociation."
+msgstr ""
+
+#. type: Plain text
+#: 1000.en.adoc:18
+msgid ""
+"In the event of disassociation of a Voting Participant, the Governing Board "
+"may decide by consensus to adjust the Work Programme and the Budget to take "
+"account of such disassociation or, again by consensus, may decide to adjust "
+"the contributions of Participants to the Budget in accordance with the "
+"approved Guidelines for calculating Basic Financial Contribution (See "
+"4.6(g))."
 msgstr ""
 
 #. type: Title ==
@@ -1424,10 +1450,10 @@ msgid "Discontinuation"
 msgstr ""
 
 #. type: Plain text
-#: 1100.en.adoc:17
+#: 1100.en.adoc:10
 msgid ""
 "The Voting Participants, acting by consensus, may discontinue this MOU at "
-"any time.  In a situation where discontinuation has been so decided the GBIF "
+"any time. In a situation where discontinuation has been so decided the GBIF "
 "Secretariat, acting in accordance with the laws of the jurisdiction in which "
 "it is located will arrange for the liquidation of the assets of GBIF; "
 "property held by the GBIF Secretariat for the benefit of the Participants is "
@@ -1439,13 +1465,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 1100.en.adoc:18
+#: 1100.en.adoc:11
 #, no-wrap
 msgid "Modifications"
 msgstr ""
 
 #. type: Plain text
-#: 1100.en.adoc:22
+#: 1100.en.adoc:14
 msgid ""
 "Excepting paragraph 2 (5), this MOU may be modified at any time by the "
 "Governing Board through a consensus vote of all the representatives of all "
@@ -1453,25 +1479,25 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 1100.en.adoc:24 1100.en.adoc:26 1100.en.adoc:32 1100.en.adoc:36
-#: 1100.en.adoc:38 1100.en.adoc:42
+#: 1100.en.adoc:16 1100.en.adoc:18 1100.en.adoc:24 1100.en.adoc:28
+#: 1100.en.adoc:30 1100.en.adoc:34
 msgid " "
 msgstr ""
 
 #. type: Plain text
-#: 1100.en.adoc:28
+#: 1100.en.adoc:20
 msgid ""
 "[big]#□# Signing the MOU to become/continue as a Voting Participant "
 "(countries only)"
 msgstr ""
 
 #. type: Plain text
-#: 1100.en.adoc:30
+#: 1100.en.adoc:22
 msgid "[big]#□# Signing the MOU to become/continue as an Associate Participant"
 msgstr ""
 
 #. type: Plain text
-#: 1100.en.adoc:34
+#: 1100.en.adoc:26
 msgid ""
 "Official GBIF Participant namefootnote:[Country or organisation name as you "
 "would like it to appear in all official GBIF correspondence; letters, "
@@ -1479,12 +1505,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 1100.en.adoc:40
+#: 1100.en.adoc:32
 msgid "Signature: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
 msgstr ""
 
 #. type: Plain text
-#: 1100.en.adoc:43
+#: 1100.en.adoc:35
 msgid ""
 "Date: _ _ _ _ _ _ _ _ _ _ _ _ _ _     Place: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ "
 "_ _ _"
