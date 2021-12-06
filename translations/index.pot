@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-16 21:15+0000\n"
+"POT-Creation-Date: 2021-12-06 17:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -560,7 +560,7 @@ msgid "The Governing Board"
 msgstr ""
 
 #. type: Plain text
-#: 0400.en.adoc:4 0500.en.adoc:6
+#: 0400.en.adoc:4 0500.en.adoc:5
 msgid "Role and Purpose"
 msgstr ""
 
@@ -864,16 +864,11 @@ msgstr ""
 #. type: Title ==
 #: 0500.en.adoc:2
 #, no-wrap
-msgid "Paragraph 5"
+msgid "The GBIF Secretariat Host"
 msgstr ""
 
 #. type: Plain text
-#: 0500.en.adoc:4
-msgid "THE GBIF SECRETARIAT HOST"
-msgstr ""
-
-#. type: Plain text
-#: 0500.en.adoc:14
+#: 0500.en.adoc:13
 msgid ""
 "The GBIF Secretariat Host will provide the location, facilities and services "
 "mutually decided upon in an arrangement between the Governing Board and the "
@@ -885,12 +880,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0500.en.adoc:16
+#: 0500.en.adoc:15
 msgid "Reimbursement of Costs"
 msgstr ""
 
 #. type: Plain text
-#: 0500.en.adoc:22
+#: 0500.en.adoc:21
 msgid ""
 "(a) In accordance with prior financial arrangements with the GBIF "
 "Secretariat, expenses and costs reasonably and properly incurred by the GBIF "
@@ -900,7 +895,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 0500.en.adoc:25
+#: 0500.en.adoc:24
 msgid ""
 "(b) Neither the GBIF Secretariat Host, nor its experts, employees, agents, "
 "representatives or contractors are to commit the Participants to any "
