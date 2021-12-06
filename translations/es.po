@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-mou\n"
-"POT-Creation-Date: 2021-12-06 17:54+0000\n"
-"PO-Revision-Date: 2021-12-06 18:35\n"
+"POT-Creation-Date: 2021-12-06 18:55+0000\n"
+"PO-Revision-Date: 2021-12-06 19:31\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -921,58 +921,118 @@ msgstr ""
 #. type: Title ==
 #: 0900.en.adoc:2
 #, no-wrap
-msgid "Paragraph 9"
-msgstr ""
-
-#. type: Plain text
-#: 0900.en.adoc:4
 msgid "FINANCE"
 msgstr ""
 
 #. type: Plain text
-#: 0900.en.adoc:25
-msgid "Basic Financial Contributions (a) Basic Financial Contributions are the annual contribution to GBIF from Voting Participants calculated according to approved Guidelines for calculating Basic Financial Contributions (See 4.6(g)). A Table of suggested Basic Financial Contributions for Voting Participants should be calculated and presented by the GBIF Executive Committee for approval by the Governing Board on a multi-year basis. This Table should indicate the suggested contributions in actual figures for each Voting Participant for each of the years in a multi-year period calculated on the basis of an approved multi-year Budget Plan for GBIF.  (b) The Governing Board may decide by consensus to change - based upon the Guidelines for calculating Basic Financial Contributions (See 4.6(g)) - the approved Table of suggested Basic Financial Contribution during the multi-year period.  (c) The annual contributions are to be transferred to the GBIF Secretariat in accordance with the financial arrangements described in Paragraph 10.2 to be held by the GBIF Secretariat in a Central Fund and used as stipulated in the Budget approved by Governing Board.  (d) The Governing Board is to approve by consensus a new Table of suggested Basic Financial Contributions for Voting Participants for a next multi-year period well in advance of the expiration of the current approved Table of Basic Financial Contributions."
+#: 0900.en.adoc:5
+msgid "Basic Financial Contributions"
 msgstr ""
 
 #. type: Plain text
-#: 0900.en.adoc:39
-msgid "Supplementary Financial Contributions (a) In addition to Basic Financial Contributions, both Voting and Associate Participants may make Supplementary Financial Contributions to fund specific parts of the Work Programme, or for other specified purposes decided upon by the Governing Board. Those specified purposes may include facilitating attendance by Participants from developing countries at meetings of the Governing Board.  (b) Other Income (also regarded as Supplementary Financial Contributions)  The Secretariat may accept other income from additional sources (e.g.  foundations, agencies, research councils, and private companies) offered for the purposes set out in this MOU and the Strategic Plan.  (c) Supplementary Financial Contributions are to be held by the GBIF Secretariat separate from the Basic Financial Contributions. Funds may only be used for the purposes specified by the contributor."
+#: 0900.en.adoc:7
+msgid "Basic Financial Contributions are the annual contribution to GBIF from Voting Participants calculated according to approved Guidelines for calculating Basic Financial Contributions (See 4.6(g)). A Table of suggested Basic Financial Contributions for Voting Participants should be calculated and presented by the GBIF Executive Committee for approval by the Governing Board on a multi-year basis. This Table should indicate the suggested contributions in actual figures for each Voting Participant for each of the years in a multi-year period calculated on the basis of an approved multi-year Budget Plan for GBIF."
 msgstr ""
 
 #. type: Plain text
-#: 0900.en.adoc:47
-msgid "Costs Borne by Participants Participants bear the costs of their own participation in GBIF, including the costs of establishing and supporting their Participant Biodiversity Information Facility, programmes for digitisation of biodiversity data, formulating or transmitting reports, travel costs for their delegates, and other expenses related to attendance by their representatives at meetings of the Governing Board and other GBIF functions, events, and activities."
+#: 0900.en.adoc:8
+msgid "The Governing Board may decide by consensus to change - based upon the Guidelines for calculating Basic Financial Contributions (See 4.6(g)) - the approved Table of suggested Basic Financial Contribution during the multi-year period."
 msgstr ""
 
 #. type: Plain text
-#: 0900.en.adoc:50
-msgid "Crediting of Income Any income generated in the course of GBIF activities that accrues to the GBIF Secretariat is to be used for advancing the GBIF Work Programme."
+#: 0900.en.adoc:9
+msgid "The annual contributions are to be transferred to the GBIF Secretariat in accordance with the financial arrangements described in Paragraph 10.2 to be held by the GBIF Secretariat in a Central Fund and used as stipulated in the Budget approved by Governing Board."
+msgstr ""
+
+#. type: Plain text
+#: 0900.en.adoc:10
+msgid "The Governing Board is to approve by consensus a new Table of suggested Basic Financial Contributions for Voting Participants for a next multi-year period well in advance of the expiration of the current approved Table of Basic Financial Contributions."
+msgstr ""
+
+#. type: Plain text
+#: 0900.en.adoc:12
+msgid "Supplementary Financial Contributions"
+msgstr ""
+
+#. type: Plain text
+#: 0900.en.adoc:14
+msgid "In addition to Basic Financial Contributions, both Voting and Associate Participants may make Supplementary Financial Contributions to fund specific parts of the Work Programme, or for other specified purposes decided upon by the Governing Board. Those specified purposes may include facilitating attendance by Participants from developing countries at meetings of the Governing Board."
+msgstr ""
+
+#. type: Plain text
+#: 0900.en.adoc:16
+msgid "Other Income (also regarded as Supplementary Financial Contributions) The Secretariat may accept other income from additional sources (e.g. foundations, agencies, research councils, and private companies) offered for the purposes set out in this MOU and the Strategic Plan.  (c) Supplementary Financial Contributions are to be held by the GBIF Secretariat separate from the Basic Financial Contributions. Funds may only be used for the purposes specified by the contributor."
+msgstr ""
+
+#. type: Plain text
+#: 0900.en.adoc:18
+msgid "Costs Borne by Participants"
+msgstr ""
+
+#. type: Plain text
+#: 0900.en.adoc:20
+msgid "Participants bear the costs of their own participation in GBIF, including the costs of establishing and supporting their Participant Biodiversity Information Facility, programmes for digitisation of biodiversity data, formulating or transmitting reports, travel costs for their delegates, and other expenses related to attendance by their representatives at meetings of the Governing Board and other GBIF functions, events, and activities."
+msgstr ""
+
+#. type: Plain text
+#: 0900.en.adoc:22
+msgid "Crediting of Income"
+msgstr ""
+
+#. type: Plain text
+#: 0900.en.adoc:23
+msgid "Any income generated in the course of GBIF activities that accrues to the GBIF Secretariat is to be used for advancing the GBIF Work Programme."
 msgstr ""
 
 #. type: Title ==
 #: 1000.en.adoc:2
 #, no-wrap
-msgid "Paragraph 10"
+msgid "Association and Disassociation of Participants"
 msgstr ""
 
 #. type: Plain text
-#: 1000.en.adoc:4
-msgid "ASSOCIATION AND DISASSOCIATION OF PARTICIPANTS"
+#: 1000.en.adoc:5
+msgid "Association of Participants"
 msgstr ""
 
 #. type: Plain text
-#: 1000.en.adoc:10
-msgid "Association of Participants Association with GBIF is open to any country, economy, inter-governmental, international organisation or organisation with an international scope or to an entity designated by them as described in Paragraph 1.2. Such association becomes effective upon signature of this MOU."
+#: 1000.en.adoc:7
+msgid "Association with GBIF is open to any country, economy, intergovernmental, international organisation or organisation with an international scope or to an entity designated by them as described in Paragraph 1.2. Such association becomes effective upon signature of this MOU."
 msgstr ""
 
 #. type: Plain text
-#: 1000.en.adoc:25
-msgid "Participant Status (a) A country that has signed the MOU becomes a Voting Participant on the Governing Board by deciding to make a Basic Financial Contribution and making the financial arrangement negotiated with the GBIF Secretariat, as described in Paragraph 6.4(c). This arrangement sets out the Voting Participant’s financial contribution calculated on the basis of the approved Guidelines for calculating Basic Financial Contributions (See 4.6(g)) and the period for which the arrangement is valid.  (b) In order to retain voting rights a Voting Participant is requested to make its financial contribution each year within the first three months of the GBIF financial year, unless the Executive Committee has approved a later payment arrangement for the financial year.  The voting rights of a Voting Participant that is more than one financial year behind paying its basic financial contribution in accordance with the financial arrangement will be suspended until it has made all outstanding financial contributions."
+#: 1000.en.adoc:9
+msgid "Participant Status"
 msgstr ""
 
 #. type: Plain text
-#: 1000.en.adoc:34
-msgid "Disassociation of Participants (a) Any Participant may disassociate itself from this MOU by advising the Governing Board in writing of its intention to do so and of the effective date of disassociation.  (b) In the event of disassociation of a Voting Participant, the Governing Board may decide by consensus to adjust the Work Programme and the Budget to take account of such disassociation or, again by consensus, may decide to adjust the contributions of Participants to the Budget in accordance with the approved Guidelines for calculating Basic Financial Contribution (See 4.6(g))."
+#: 1000.en.adoc:11
+msgid "A country that has signed the MOU becomes a Voting Participant on the Governing Board by deciding to make a Basic Financial Contribution and making the financial arrangement negotiated with the GBIF Secretariat, as described in Paragraph 6.4(c). This arrangement sets out the Voting Participant’s financial contribution calculated on the basis of the approved Guidelines for calculating Basic Financial Contributions (See 4.6(g)) and the period for which the arrangement is valid."
+msgstr ""
+
+#. type: Plain text
+#: 1000.en.adoc:12
+msgid "In order to retain voting rights a Voting Participant is requested to make its financial contribution each year within the first three months of the GBIF financial year, unless the Executive Committee has approved a later payment arrangement for the financial year."
+msgstr ""
+
+#. type: Plain text
+#: 1000.en.adoc:14
+msgid "The voting rights of a Voting Participant that is more than one financial year behind paying its basic financial contribution in accordance with the financial arrangement will be suspended until it has made all outstanding financial contributions."
+msgstr ""
+
+#. type: Plain text
+#: 1000.en.adoc:16
+msgid "Disassociation of Participants"
+msgstr ""
+
+#. type: Plain text
+#: 1000.en.adoc:18
+msgid "Any Participant may disassociate itself from this MOU by advising the Governing Board in writing of its intention to do so and of the effective date of disassociation."
+msgstr ""
+
+#. type: Plain text
+#: 1000.en.adoc:18
+msgid "In the event of disassociation of a Voting Participant, the Governing Board may decide by consensus to adjust the Work Programme and the Budget to take account of such disassociation or, again by consensus, may decide to adjust the contributions of Participants to the Budget in accordance with the approved Guidelines for calculating Basic Financial Contribution (See 4.6(g))."
 msgstr ""
 
 #. type: Title ==
@@ -999,49 +1059,49 @@ msgid "Discontinuation"
 msgstr ""
 
 #. type: Plain text
-#: 1100.en.adoc:17
-msgid "The Voting Participants, acting by consensus, may discontinue this MOU at any time.  In a situation where discontinuation has been so decided the GBIF Secretariat, acting in accordance with the laws of the jurisdiction in which it is located will arrange for the liquidation of the assets of GBIF; property held by the GBIF Secretariat for the benefit of the Participants is to be regarded, for this purpose, as assets of GBIF. In the event of such liquidation, the GBIF Secretariat, so far as practicable, will distribute any assets of GBIF or the proceeds there from, in proportion to the Basic Financial Contributions which the Participants have made from the beginning of the operation of GBIF."
+#: 1100.en.adoc:10
+msgid "The Voting Participants, acting by consensus, may discontinue this MOU at any time. In a situation where discontinuation has been so decided the GBIF Secretariat, acting in accordance with the laws of the jurisdiction in which it is located will arrange for the liquidation of the assets of GBIF; property held by the GBIF Secretariat for the benefit of the Participants is to be regarded, for this purpose, as assets of GBIF. In the event of such liquidation, the GBIF Secretariat, so far as practicable, will distribute any assets of GBIF or the proceeds there from, in proportion to the Basic Financial Contributions which the Participants have made from the beginning of the operation of GBIF."
 msgstr ""
 
 #. type: Title ===
-#: 1100.en.adoc:18
+#: 1100.en.adoc:11
 #, no-wrap
 msgid "Modifications"
 msgstr ""
 
 #. type: Plain text
-#: 1100.en.adoc:22
+#: 1100.en.adoc:14
 msgid "Excepting paragraph 2 (5), this MOU may be modified at any time by the Governing Board through a consensus vote of all the representatives of all the Voting Participants."
 msgstr ""
 
 #. type: Plain text
-#: 1100.en.adoc:24 1100.en.adoc:26 1100.en.adoc:32 1100.en.adoc:36
-#: 1100.en.adoc:38 1100.en.adoc:42
+#: 1100.en.adoc:16 1100.en.adoc:18 1100.en.adoc:24 1100.en.adoc:28
+#: 1100.en.adoc:30 1100.en.adoc:34
 msgid " "
 msgstr ""
 
 #. type: Plain text
-#: 1100.en.adoc:28
+#: 1100.en.adoc:20
 msgid "[big]#□# Signing the MOU to become/continue as a Voting Participant (countries only)"
 msgstr ""
 
 #. type: Plain text
-#: 1100.en.adoc:30
+#: 1100.en.adoc:22
 msgid "[big]#□# Signing the MOU to become/continue as an Associate Participant"
 msgstr ""
 
 #. type: Plain text
-#: 1100.en.adoc:34
+#: 1100.en.adoc:26
 msgid "Official GBIF Participant namefootnote:[Country or organisation name as you would like it to appear in all official GBIF correspondence; letters, website, etc]: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
 msgstr ""
 
 #. type: Plain text
-#: 1100.en.adoc:40
+#: 1100.en.adoc:32
 msgid "Signature: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
 msgstr ""
 
 #. type: Plain text
-#: 1100.en.adoc:43
+#: 1100.en.adoc:35
 msgid "Date: _ _ _ _ _ _ _ _ _ _ _ _ _ _     Place: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
 msgstr ""
 
