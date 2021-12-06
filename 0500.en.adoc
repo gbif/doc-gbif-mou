@@ -1,8 +1,7 @@
 [[short-id]]
-== Paragraph 5
-THE GBIF SECRETARIAT HOST
+== The GBIF Secretariat Host
 
-1. Role and Purpose
+. Role and Purpose
 
 The GBIF Secretariat Host will provide the location, facilities and services mutually
 decided upon in an arrangement between the Governing Board and the GBIF
@@ -12,7 +11,7 @@ Secretariat and manage it in accordance with the laws in force in the country of
 GBIF Secretariat Host. The GBIF Secretariat Host is to also to obtain or provide legal
 status for the GBIF Secretariat.
 
-2. Reimbursement of Costs
+. Reimbursement of Costs
 
 (a) In accordance with prior financial arrangements with the GBIF Secretariat,
 expenses and costs reasonably and properly incurred by the GBIF Secretariat Host
