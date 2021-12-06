@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gbif-mou\n"
-"POT-Creation-Date: 2021-03-16 21:15+0000\n"
-"PO-Revision-Date: 2021-03-16 21:34\n"
+"POT-Creation-Date: 2021-12-06 17:37+0000\n"
+"PO-Revision-Date: 2021-12-06 17:38\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -420,7 +420,7 @@ msgid "The Governing Board"
 msgstr ""
 
 #. type: Plain text
-#: 0400.en.adoc:4 0500.en.adoc:6
+#: 0400.en.adoc:4 0500.en.adoc:5
 msgid "Role and Purpose"
 msgstr ""
 
@@ -642,31 +642,26 @@ msgstr ""
 #. type: Title ==
 #: 0500.en.adoc:2
 #, no-wrap
-msgid "Paragraph 5"
+msgid "The GBIF Secretariat Host"
 msgstr ""
 
 #. type: Plain text
-#: 0500.en.adoc:4
-msgid "THE GBIF SECRETARIAT HOST"
-msgstr ""
-
-#. type: Plain text
-#: 0500.en.adoc:14
+#: 0500.en.adoc:13
 msgid "The GBIF Secretariat Host will provide the location, facilities and services mutually decided upon in an arrangement between the Governing Board and the GBIF Secretariat Host. The services may cover staff management, financial management, accountancy, legal assistance, etc. The GBIF Secretariat Host may house the GBIF Secretariat and manage it in accordance with the laws in force in the country of the GBIF Secretariat Host. The GBIF Secretariat Host is to also to obtain or provide legal status for the GBIF Secretariat."
 msgstr ""
 
 #. type: Plain text
-#: 0500.en.adoc:16
+#: 0500.en.adoc:15
 msgid "Reimbursement of Costs"
 msgstr ""
 
 #. type: Plain text
-#: 0500.en.adoc:22
+#: 0500.en.adoc:21
 msgid "(a) In accordance with prior financial arrangements with the GBIF Secretariat, expenses and costs reasonably and properly incurred by the GBIF Secretariat Host in supporting the GBIF Secretariat, above those costs that the GBIF Secretariat Host itself has consented to provide may be paid from the funds collected pursuant to Paragraph 9."
 msgstr ""
 
 #. type: Plain text
-#: 0500.en.adoc:25
+#: 0500.en.adoc:24
 msgid "(b) Neither the GBIF Secretariat Host, nor its experts, employees, agents, representatives or contractors are to commit the Participants to any expenditure beyond what is available in the Central Fund, as defined in Paragraph 9.1(b)."
 msgstr ""
 
